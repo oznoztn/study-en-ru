@@ -1,0 +1,36 @@
+﻿﻿**********************   LESSON 01   **********************
+___________________________________________________________
+
+Anglais
+Français
+
+Oui
+Non
+
+Mademoiselle
+Monsieur
+
+Je comprends l'anglais.
+Je comprends le français.
+
+Je ne comprends pas l'anglais.
+je ne comprends pas le français.
+
+Vous comprenez l'anglais.
+Vous comprenez le français.
+
+Est-ce que vous comprenez l'anglais?
+Est-ce que vous comprenez le français?
+
+Comprenez-vous le français?
+Comprenez-vous l'anglais?
+
+un peu
+
+Je comprends un peu l'anglais.
+Je comprends un peu le français.
+
+
+Vous êtes
+Vous êtes américain.
+Est-ce que vous êtes américain?
