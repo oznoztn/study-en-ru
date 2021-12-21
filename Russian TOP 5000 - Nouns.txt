@@ -209,38 +209,38 @@
 колено
 коридор
 мужик
-автор
-встреча
-кабинет
-документ
-самолет
-игра
-рассказ
-хлеб
-развитие
-трубка
-враг
-доктор
-ладонь
-наука
-лейтенант
+автор		author
+встреча		meeting, encounter | date
+кабинет		cabinet
+документ	document
+самолет		plane
+игра		game
+рассказ		story
+хлеб		bread
+развитие	development
+трубка		(dim) pipe, tube
+враг		enemy, foe
+доктор		doctor
+ладонь		palm
+наука		science
+лейтенант	liutenant
 служба
 счет
-кухня
+кухня		kitchen
 решение
 молодая
-роман
-компания
-течение
-метр
-институт
-интерес
+роман		novel
+компания	company
+течение		current, flow, stream
+метр		meter
+институт	institute
+интерес		interest
 половина
-качество
-бой
-шея
-идея
-трава
+качество	quality
+бой		beating | fight | battle
+шея		neck
+идея		idea
+трава		grass
 дед
 сознание
 родитель
@@ -248,21 +248,21 @@
 род
 немецкий
 звук
-магазин
-президент
-поэт
-спасибо
-болезнь
-событие
-кожа
-лист
+магазин		shop, store | (weapon) magazin
+президент	president
+поэт		poem
+спасибо		gratitude
+болезнь		illness, sickness | disease
+событие		event
+кожа		skin
+лист		leaf | (paper) sheet, leaf
 слеза
-надежда
-литература
-оружие
+надежда		hope, expectation
+литература	literature
+оружие		weapon
 запах
-роль
-рост
+роль		role
+рост		growth | increase
 природа
 точка
 звезда
@@ -526,52 +526,52 @@
 восток
 эхо
 автомобиль
-миг
-отряд
+миг		moment
+отряд		squadron
 занятие
-Европа
-артист
-планета
-порог
-явление
-красота
-палатка
-пьяный
-рада
+Европа		Europe
+артист		artist
+планета		planet
+порог		threshold
+явление		
+красота		beauty
+палатка		tent
+пьяный		drunk
+рада		Rada (parliament)
 доска
-пистолет
-актер
+пистолет	pistol, handgun
+актер		actor
 потолок
 постель
-сумка
-мгновение
-праздник
-мост
+сумка		sum
+мгновение	moment, instant
+праздник	holiday, festival
+мост		bridge
 энергия
-начальство
-сожаление
+начальство	command, direction | authorities | boss, chief, leader
+сожаление	regret
 участок
 жертва
-меч
+меч		sword
 звонок
-кино
-мороз
-адрес
+кино		cinema
+мороз		frost
+адрес		address
 горло
 костер
-кот
+кот		cat
 бык
-текст
-тепло
+текст		text
+тепло		(physics) heat | warmth
 песок
 сомнение
 территория
-тайна
+тайна		secret | mystery
 волк
 приятель
-рукав
-дедушка
-масло
+рукав		sleeve
+дедушка		old man | grandfather
+масло		oil
 существование
 рождение
 воспоминание
