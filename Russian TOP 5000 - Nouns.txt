@@ -1,160 +1,160 @@
-человек
-год
-время
-рука
+человек		person, human
+год		year
+время		time
+рука		hand | arm
 дело
 раз
-глаз
-жизнь
-день
-голова
-друг
-дом
-слово
-место
-лицо
-сторона
-нога
-дверь
-работа
-земля
-конец
-час
-голос
-город
-вода
-стол
-ребенок
-сила
-отец
-женщина
-машина
-случай
-ночь
-мир
-вид
-ряд
-начало
-вопрос
-война
-деньги
-минута
-жена
-правда
-страна
-свет
-мать
-товарищ
-дорога
-окно
-комната
-Москва
-часть
-книга
-улица
-душа
-утро
-вечер
-пол
-народ
-плечо
-бог
-взгляд
-русский
-палец
-Россия
-история
-мысль
-сын
-лес
-пора
-имя
-разговор
+глаз		eye
+жизнь		life
+день		day
+голова		head
+друг		friend
+дом		home, house
+слово		word
+место		seat, place
+лицо		face
+сторона		side
+нога		leg
+дверь		door
+работа		work 
+земля		earth
+конец		end
+час		time, hour
+голос		voice
+город		town, city
+вода		water
+стол		table
+ребенок		child, kid
+сила		power, might
+отец		father
+женщина		woman
+машина		car | machine
+случай		case, occurence | event, incident
+ночь		night
+мир		world | peace
+вид		external image; appearance, look | aspect, facet
+ряд		row, series, line
+начало		beginning | beginning, origin, source	
+вопрос		question
+война		war
+деньги		money
+минута		minute
+жена		wife
+правда		right
+страна		country
+свет		light
+мать		mother
+товарищ		friend, comrade
+дорога		road | road, path
+окно		window
+комната		room
+Москва		Moscow
+часть		part
+книга		book
+улица		street
+душа		soul, spirit
+утро		morning
+вечер		evening
+пол		
+народ		nation
+плечо		shoulder
+бог		God
+взгляд		
+русский		Russian
+палец		
+Россия		Russia
+история		history
+мысль		thought, idea
+сын		son
+лес		forest
+пора		
+имя		name
+разговор	tal, conversation
 тело
-стена
-право
-старик
-мама
+стена		wall
+право		right | (law) right
+старик		old man
+мама		mom
 путь
-месяц
+месяц		month
 спина
-язык
-сердце
-мальчик
-небо
-смерть
-девушка
-образ
-письмо
-власть
-воздух
-брат
+язык		language
+сердце		heart
+мальчик		(dim) boy
+небо		sky
+смерть		death
+девушка		girl
+образ		
+письмо		letter
+власть		pwoer
+воздух		air
+брат		brother
 отношение
-система
-квартира
-любовь
-солдат
-хозяин
-начальник
-школа
-парень
-кровь
-солнце
-неделя
-ребята
-шаг
-мужчина
-нос
-внимание
-капитан
-ухо
-чувство
-берег
-семья
-генерал
-момент
-труд
-группа
-муж
-движение
-порядок
-ответ
-газета
-помощь
-собака
-дерево
-снег
-сон
-смысл
+система		system
+квартира	apartment, flat
+любовь		LOVE
+солдат		soldier
+хозяин		master
+начальник	boss, manager, chief, leader, etc.
+школа		school
+парень		lad, guy, boy
+кровь		blood
+солнце		sun
+неделя		week
+ребята		children
+шаг		step
+мужчина		man, male
+нос		nose
+внимание	attention, warning
+капитан		captain
+ухо		ear
+чувство		feeling, sense
+берег		bank, shore
+семья		family
+генерал		general
+момент		moment, instant
+труд		labour
+группа		group
+муж		husband
+движение	movement, motion
+порядок		order | order, sequence
+ответ		reply, response
+газета		newspaper
+помощь		help
+собака		dog
+дерево		tree
+снег		snow
+сон		dream
+смысл		meaning, sense
 двор
-форма
+форма		form, shape
 возможность
-общество
+общество	society
 грудь
 угол
-черный
-век
-карман
-немец
-губа
-дядя
-огонь
-писатель
-армия
-состояние
-зуб
-очередь
-камень
-гость
-ветер
+черный		black
+век		century, age
+карман		pocket
+немец		German
+губа		lip
+дядя		uncle
+огонь		fire
+писатель	writer
+армия		army
+состояние	
+зуб		tooth
+очередь		queue, line
+камень		stone
+гость		guest
+ветер		wind
 рота
-закон
-море
-гора
-врач
-край
-река
-военный
+закон		law
+море		sea
+гора		mountain
+врач		enemy
+край		border
+река		river
+военный 
 мера
 действие
 вещь
@@ -180,26 +180,26 @@
 средство
 положение
 связь
-класс
+класс		class | classroom
 цель
-знать
+знать		nobility, noble people
 профессор
 господин
 счастье
 дух
 план
 зал
-директор
+директор	director
 память
-результат
-больной
-след
-бутылка
+результат	result
+больной		
+след		footprint
+бутылка		bottle
 условие
-ум
-процесс
-картина
-центр
+ум		mind
+процесс		process
+картина		picture-
+центр		center
 будущее
 число
 рубль
@@ -394,37 +394,37 @@
 старуха
 войско
 срок
-ужас
-материал
-крик
-знание
-шум
-автомат
-тетя
-впечатление
-пауза
-глубина
-доллар
-сотня
-студент
-очко
-нож
-предмет
-майор
-деятельность
-инженер
-программа
-костюм
-театр
-хвост
-танк
+ужас		terror
+материал	material
+крик		scream, cry, shriek
+знание		knowledge
+шум		noise
+автомат		automatic machine
+тетя		aunt
+впечатление	impression
+пауза		pause
+глубина		
+доллар		dollar
+сотня		a hundred
+студент		student
+очко		dot, point
+нож		knive
+предмет		object, item
+майор		mayor
+деятельность	activity
+инженер		engineer
+программа	program
+костюм		costume
+театр		theatre
+хвост		tail
+танк		tank
 мёртвый
-журнал
-конь
-стихи
+журнал		magazine
+конь	
+стихи		poem
 степень
-фигура
-ключ
+фигура		figure
+ключ		key
 черт
 вагон
 культура
@@ -474,9 +474,9 @@
 существо
 мальчишка
 господь
-США
-камера
-победа
+США		USA
+камера		camera | chamber, cell, compartment 
+победа		victory 
 человечество
 фраза
 замок
