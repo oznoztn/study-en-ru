@@ -126,11 +126,11 @@
 снег		snow
 сон		dream
 смысл		meaning, sense
-двор
+двор		court, yard
 форма		form, shape
-возможность
+возможность	possibility, opportunity, chance
 общество	society
-грудь
+грудь		chest, breast
 угол
 черный		black
 век		century, age
@@ -157,11 +157,11 @@
 военный 
 мера
 действие
-вещь
+вещь		thing
 ход
-боль
-судьба
-причина
+боль		pain
+судьба		fate, destiny
+причина		cause, reason, factor
 черта
 девочка		(dim) girl
 волос		voice
@@ -177,7 +177,7 @@
 государство	state
 деревня		village
 речь
-средство
+средство	method, way | means
 положение
 связь
 класс		class | classroom
@@ -190,12 +190,12 @@
 план		plan
 зал
 директор	director
-память
+память		memory, remembrance, recollection
 результат	result
 больной		patient
 след		footprint
 бутылка		bottle
-условие
+условие		condition, term
 ум		mind
 процесс		process
 картина		picture-
@@ -204,7 +204,7 @@
 число		number
 рубль		ruble
 вера		faith, belief
-удар
+удар		hit, blow, strike
 телефон		telephone
 колено
 коридор
@@ -313,8 +313,8 @@
 поле		field
 тип		type
 суд		court
-площадь
-радость
+площадь		square
+радость		joy
 возраст		age
 орган		organ
 карта		map
@@ -632,12 +632,12 @@
 руководитель
 инспектор
 удивление
-молоко
+молоко		milk
 предложение
 среда
-площадка
-совесть
-кофе
+площадка	playground
+совесть		conscience
+кофе		coffee
 штаны
 охота
 бровь
@@ -648,65 +648,65 @@
 усилие
 клетка
 обстановка
-температура
+температура	temperature
 вывод
 предприятие
-подарок
+подарок		gift, present
 отделение
 штука
-защита
+защита		protection, defence | shield
 выстрел
-суть
-труп
+суть		core
+труп		corpse
 основа
 участие
 фон		background
-признак
-дача
-слой
-охрана
-милиционер
-портрет
-шкаф
-вес
-холод
-тревога
+признак		ghost
+дача		dacha
+слой		layer
+охрана		protection | security, guard, safeguard
+милиционер	policeman
+портрет		portrait
+шкаф		cupboard
+вес		weight
+холод		coldness, cold, chill
+тревога		anxiety, alarm, alert
 полок
-куртка
-изба
-вершина
-Париж
+куртка		jacket
+изба		izba
+вершина		aphex, vertex, acme, summit, peak, pinnacle, top
+Париж		Paris
 убийство
 рубашка
 хозяйство
-парк
-режим
+парк		park
+режим		regime
 руководство
 преступление
 стенка
-луна
+луна		moon
 богатый
 гостиница
-беседа
+беседа		talk, conversation
 полк
-лапа
-забор
-пост
-шапка
-университет
-бабка
-журналист
-должность
-истина
-раствор
-газ
-позиция
-появление
+лапа		paw
+забор		fence
+пост		post
+шапка		hat
+университет	university
+бабка		(coll.) grandma
+журналист	journalish
+должность	office, position
+истина		the truth
+раствор		solution
+газ		gas
+позиция		position
+появление	appearance, emergene, manifestation
 песнь
 облако
 морда
 записка
-ус
+ус		mustache
 помещение
 плащ
 подъезд
@@ -714,32 +714,32 @@
 платок
 середина
 напряжение
-могила
+могила		grave
 тоска
 борт
-грех
+грех		sin
 строй
-исследование
-буква
-реакция
+исследование	study, research | the result of that
+буква		character
+реакция		reaction
 пила
 обезьяна
 бригада
 остаток
-пункт
-локоть
+пункт		point
+локоть		elboq
 краска
-разница
-расстояние
-кружок
-политика
-поколение
-ожидание
-фонарь
+разница		difference
+расстояние	distance, length, space
+кружок		(dim) circle
+политика	politics
+поколение	generation
+ожидание	expectation
+фонарь		lantern
 куча
-полоса
+полоса		strip, band, bar
 страсть
-сержант
+сержант		sergeant
 святой
 повесть
 шепот		whisper
@@ -816,25 +816,25 @@
 заявление
 поражение
 август
-север
+север		North
 шляпа
 молчание
 топор
 брюки
-элемент
+элемент		element
 одеяло
-мотор
-дружба
-безопасность
-крест
-кабина
-пальто
+мотор		engine, motor
+дружба		friendship
+безопасность	safety
+крест		cross
+кабина		cabin, cubicle | (avia.) cockpit
+пальто		coat
 восторг
-экономика
-забота
-талант
-запись
-ведро
+экономика	economy
+забота		care
+талант		talent
+запись		record | entry, recording
+ведро		bucket
 крестьянин
 поворот
 подробность
@@ -865,43 +865,43 @@
 печка
 открытие
 орден
-ботинок
-польза
-печать
-пот
-корпус
-склад
-компьютер
+ботинок		high shoe, boot
+польза		benefit, favor, advantage
+печать		seal, stamp
+пот		sweat
+корпус		trunk | case, frame | corpus
+склад		storage, repository | mindset
+компьютер	computer
 рана
 коробка
-секрет
-холм
+секрет		secret
+холм		hill
 ремень
 произведение
-цифра
+цифра		password
 привет
-помощник
-полет
-пожар
-корова
-глупость
-симптом
-бумажка
-радио
+помощник	help
+полет		flight
+пожар		fire, conflagration
+корова		cow
+глупость	stupidity
+симптом		symptom
+бумажка		(dim) paper
+радио		radio
 профессия
 разведка
 свидетель
-халат
-тьма
-сообщение
-гроб
-яма
-жест
-шоссе
+халат		robe (bathroom)
+тьма		darkness
+сообщение	communication, conveyance | message
+гроб		coffin
+яма		pit, hole
+жест		gesture
+шоссе		highway
 уважение
 цепь
 подвал
-лампа
+лампа		lamp
 доля
 старушка
 гриб
@@ -2193,7 +2193,7 @@
 претензия
 распространение
 обувь
-аргумент
+аргумент	argument
 полотно
 пропуск
 смола
@@ -2215,10 +2215,10 @@
 объятие
 отставка
 рельс		rail
-рыбка
+рыбка		(dim) fish
 игрок		gambler
 шорох
-новичок
+новичок		tyro, beginner, newbie, rookie
 парнишка
 скотина
 поручение
