@@ -1,15 +1,15 @@
 человек		person, human
-год		year
+год		    year
 время		time
 рука		hand | arm
-дело
-раз
+дело        business, matter, case, work
+раз         time
 глаз		eye
 жизнь		life
 день		day
 голова		head
 друг		friend
-дом		home, house
+дом		    home, house
 слово		word
 место		seat, place
 лицо		face
@@ -19,7 +19,7 @@
 работа		work 
 земля		earth
 конец		end
-час		time, hour
+час		    time, hour
 голос		voice
 город		town, city
 вода		water
@@ -31,9 +31,9 @@
 машина		car | machine
 случай		case, occurence | event, incident
 ночь		night
-мир		world | peace
-вид		external image; appearance, look | aspect, facet
-ряд		row, series, line
+мир		    world | peace
+вид		    external image; appearance, look | aspect, facet
+ряд		    row, series, line
 начало		beginning | beginning, origin, source	
 вопрос		question
 война		war
@@ -58,17 +58,17 @@
 пол		
 народ		nation
 плечо		shoulder
-бог		God
+бог		    God
 взгляд		
 русский		Russian
 палец		
 Россия		Russia
 история		history
 мысль		thought, idea
-сын		son
-лес		forest
+сын		    son
+лес		    forest
 пора		
-имя		name
+имя		    name
 разговор	tal, conversation
 тело
 стена		wall
@@ -102,12 +102,12 @@
 солнце		sun
 неделя		week
 ребята		children
-шаг		step
+шаг		    step
 мужчина		man, male
-нос		nose
+нос		    nose
 внимание	attention, warning
 капитан		captain
-ухо		ear
+ухо		    ear
 чувство		feeling, sense
 берег		bank, shore
 семья		family
@@ -115,7 +115,7 @@
 момент		moment, instant
 труд		labour
 группа		group
-муж		husband
+муж		    husband
 движение	movement, motion
 порядок		order | order, sequence
 ответ		reply, response
@@ -124,7 +124,7 @@
 собака		dog
 дерево		tree
 снег		snow
-сон		dream
+сон	    	dream
 смысл		meaning, sense
 двор		court, yard
 форма		form, shape
@@ -133,7 +133,7 @@
 грудь		chest, breast
 угол
 черный		black
-век		century, age
+век		    century, age
 карман		pocket
 немец		German
 губа		lip
@@ -142,7 +142,7 @@
 писатель	writer
 армия		army
 состояние	
-зуб		tooth
+зуб	    	tooth
 очередь		queue, line
 камень		stone
 гость		guest
@@ -186,7 +186,7 @@
 профессор	professor
 господин	master, lord
 счастье		happiness
-дух		soul, spirit
+дух		    soul, spirit
 план		plan
 зал
 директор	director
@@ -196,7 +196,7 @@
 след		footprint
 бутылка		bottle
 условие		condition, term
-ум		mind
+ум		    mind
 процесс		process
 картина		picture-
 центр		center
@@ -224,10 +224,10 @@
 ладонь		palm
 наука		science
 лейтенант	liutenant
-служба
-счет
+служба      service
+счет        bill, invoice
 кухня		kitchen
-решение
+решение     decision, solution
 молодая
 роман		novel
 компания	company
@@ -237,15 +237,15 @@
 интерес		interest
 половина
 качество	quality
-бой		beating | fight | battle
-шея		neck
+бой		    beating | fight | battle
+шея		    neck
 идея		idea
 трава		grass
-дед		grandfather | old man
+дед		    grandfather | old man
 сознание	consciousness
 родитель	
-чай		tea
-род		family, clan, generation
+чай	    	tea
+род	    	family, clan, generation
 немецкий
 звук		sound
 магазин		shop, store | (weapon) magazin
@@ -285,11 +285,11 @@
 цветок		flower
 желание
 дождь		rain
-лоб
+лоб         forehead
 улыбка		smile
 борьба		fight, struggle
 ворот
-ящик
+ящик        wooden box - case
 этаж
 голубой
 революция	revolution
@@ -311,8 +311,8 @@
 тень		shadow
 лошадь
 поле		field
-тип		type
-суд		court
+тип		    type
+суд		    court
 площадь		square
 радость		joy
 возраст		age
@@ -320,21 +320,21 @@
 карта		map
 король		king
 слава
-полковник
+полковник   colonel
 цена		price
 информация	information
 мозг		brain
-удовольствие
+удовольствие    pleasure, delight
 воля		will
 область		oblast
 крыша		roof
 дама		queen
-сад		garden
+сад		    garden
 правительство	government
-название
+назваание   title
 пример		example
 зеркало		mirror
-дым		smoke
+дым		    smoke
 факт		fact
 рыба		fish
 бабушка		grandmother | old woman
@@ -356,13 +356,13 @@
 водка		vodka
 темнота		darkness
 станция		station
-гражданин
+гражданин   
 команда
-заболевание
+заболевание disease, illness, sickness
 живот
 тишина		silence
-фронт
-щека
+фронт       front
+щека        cheek
 район		region
 выражение	expression
 мешок		bag
@@ -375,40 +375,40 @@
 завод		factory
 кулак
 стакан		glass
-рот		mouth
+рот		    mouth
 лечение		treatment
 сутки
 операция	operation
 пространство
-одежда		
+одежда		clothing
 кусок		piece
 тема		theme
 искусство	art
 курс		course
 чудо		miracle
-ощущение
+ощущение    sensation, feeling
 здание		building
 милиция		militia
-волна
+волна       wave
 задача
-старуха
+старуха     old woman
 войско
 срок
 ужас		terror
 материал	material
 крик		scream, cry, shriek
 знание		knowledge
-шум		noise
+шум	    	noise
 автомат		automatic machine
 тетя		aunt
 впечатление	impression
 пауза		pause
-глубина		
+глубина		depth, deep | intensity
 доллар		dollar
 сотня		a hundred
 студент		student
 очко		dot, point
-нож		knive
+нож	    	knive
 предмет		object, item
 майор		mayor
 деятельность	activity
@@ -446,7 +446,7 @@
 весна		spring
 обед		lunch
 значение	meaning
-дно		ground
+дно		    ground
 фотография	photograph
 успех		success
 сцена		scene
@@ -461,7 +461,7 @@
 Германия	Germany
 население	population
 беда		misfortune, calamity
-еда		food
+еда		    food
 еврей		Jewish
 министр		minister
 фирма		firm, company
@@ -474,7 +474,7 @@
 существо	creature
 мальчишка	little boy
 господь
-США		USA
+США		    USA
 камера		camera | chamber, cell, compartment 
 победа		victory 
 человечество	humanity
@@ -525,8 +525,8 @@
 автобус		bus
 восток		east
 эхо
-автомобиль
-миг		moment
+автомобиль  automobile, car
+миг	    	moment
 отряд		squadron
 занятие
 Европа		Europe
@@ -541,33 +541,33 @@
 доска
 пистолет	pistol, handgun
 актер		actor
-потолок
+потолок     ceiling, roof
 постель
 сумка		sum
 мгновение	moment, instant
 праздник	holiday, festival
 мост		bridge
-энергия
+энергия     energy
 начальство	command, direction | authorities | boss, chief, leader
 сожаление	regret
 участок
 жертва
-меч		sword
+меч	    	sword
 звонок
 кино		cinema
 мороз		frost
 адрес		address
-горло
-костер
-кот		cat
-бык
+горло       throat, neck
+костер      bonfire
+кот		    cat
+бык         bull
 текст		text
 тепло		(physics) heat | warmth
 песок
-сомнение
-территория
+сомнение    doubt
+территория  territory
 тайна		secret | mystery
-волк
+волк        wolf
 приятель
 рукав		sleeve
 дедушка		old man | grandfather
@@ -609,7 +609,7 @@
 долг		debt, obligation
 специалист	specialist
 телевизор	television
-зло		evil
+зло		    evil
 вкус		taste
 муха
 поиск		search
@@ -660,7 +660,7 @@
 труп		corpse
 основа
 участие
-фон		background
+фон		    background
 признак		ghost
 дача		dacha
 слой		layer
@@ -668,7 +668,7 @@
 милиционер	policeman
 портрет		portrait
 шкаф		cupboard
-вес		weight
+вес		    weight
 холод		coldness, cold, chill
 тревога		anxiety, alarm, alert
 полок
@@ -699,14 +699,14 @@
 должность	office, position
 истина		the truth
 раствор		solution
-газ		gas
+газ		    gas
 позиция		position
 появление	appearance, emergene, manifestation
 песнь		song
 облако		cloud
 морда		muzzle, snout
 записка
-ус		mustache
+ус		    mustache
 помещение
 плащ
 подъезд
@@ -728,7 +728,7 @@
 остаток
 пункт		point
 локоть		elboq
-краска
+краска      dye, paint
 разница		difference
 расстояние	distance, length, space
 кружок		(dim) circle
@@ -750,15 +750,15 @@
 корень		root
 ткань		fabric, cloth | (bio) tissue
 поток
-полиция
-база
+полиция     police
+база        base
 шинель
 выбор		choice (decision or option)
 сведение
 комиссия
 палка
 колонна		column, pillar
-лёд		ice
+лёд		    ice
 надпись
 пиджак
 тарелка
@@ -788,7 +788,7 @@
 паспорт		passport
 коллега		colleague
 девчонка
-луч		ray, beam
+луч	    	ray, beam
 коммунист	communist
 просьба
 домик
@@ -801,13 +801,13 @@
 молодец
 собрание
 слон
-юноша
-объект
+юноша       youth
+объект      object
 сравнение
-справа
-океан
+справа      right
+океан       ocean
 поселок
-тайга
+тайга       taiga
 борода
 пачка
 привычка
@@ -846,16 +846,16 @@
 ракета		rocket
 смена		change
 затылок
-юг		South
+юг	    	South
 эпоха		epoch, era
 товар
 ветка
 разведчик
 боже
 молодость
-октябрь
+октябрь     October
 храм		temple
-скала
+скала       rock
 расчёт
 обида
 огород
@@ -868,7 +868,7 @@
 ботинок		high shoe, boot
 польза		benefit, favor, advantage
 печать		seal, stamp
-пот		sweat
+пот	    	sweat
 корпус		trunk | case, frame | corpus
 склад		storage, repository | mindset
 компьютер	computer
@@ -895,7 +895,7 @@
 тьма		darkness
 сообщение	communication, conveyance | message
 гроб		coffin
-яма		pit, hole
+яма		    pit, hole
 жест		gesture
 шоссе		highway
 уважение
@@ -970,34 +970,34 @@
 тетка
 дивизия
 коньяк
-др
-горизонт
-китайский
-деталь
-контакт
-жук
-шеф
+др          dr.
+горизонт    horizon
+китайский   Chinese
+деталь      detail
+контакт     contact
+жук         bug, beetle
+шеф         chief, boss
 Петербург
 новость
-гений
+гений       genius | genie, jinn, jinni
 передача
 редакция
 декабрь		December
 публика
 свадьба
-лук
-городок
+лук         onion
+городок     (dom) city; town
 бандит
 москвич
 лаборатория
 молодёжь
-ноябрь
+ноябрь      November
 строительство
-пакет
-пенсия
-ценность
-заяц
-сэр		sir
+пакет       package, packet
+пенсия      pension
+ценность    value, worth
+заяц        hare
+сэр		    sir
 желудок		stomach
 слабость	weakness
 танец		dance
@@ -1014,10 +1014,10 @@
 действительность
 объяснение
 степь
-вор		thief
+вор		    thief
 внук		sound
 винтовка	rifle
-лев		lion
+лев		    lion
 тяжесть		weight | load | burden | gravity | seriousness
 оборона		defense
 огонек		(dim) fire
@@ -1124,14 +1124,14 @@
 полицейский
 кадр
 сиденье
-экспедиция
-спичка
-брак
+экспедиция  expedition
+спичка      match
+брак        matrimony
 посуда
 справедливость
 лопата
-кнопка
-мистер
+кнопка      button
+мистер      mister, mr.
 дорожка
 проявление
 такси		taxi
@@ -1141,21 +1141,21 @@
 плод
 заседание
 патрон
-агент
+агент       agent
 супруг
 январь
 соль		salt
-роза
+роза        rose
 комиссар
-свидание
+свидание    rendezvous, date
 питание
-кролик
-шкура
-политик
+кролик      rabbit
+шкура       pelt, skin
+политик     politics
 грохот
 неприятность
 контора		office, bureau
-суп		soup
+суп	    	soup
 палата
 мода		moda, fashin, vogue
 кусочек
@@ -1180,18 +1180,18 @@
 препарат
 недостаток
 министерство
-искра		spark, sparkle
+искра		    spark, sparkle
 трус
 заключение
-экзамен
+экзамен         examine
 скамейка
 охотник
-пустыня
+пустыня         desert
 понимание
 пресса
-молния		lightning
-сахар		sugar
-реальность	reality
+молния		    lightning
+сахар		    sugar
+реальность	    reality
 одиночество
 социализм
 судно
@@ -1203,10 +1203,10 @@
 пароход
 остановка
 рыцарь
-академик
+академик        academician
 пустота
 копейка
-версия
+версия          version
 ножка
 аккумулятор
 собеседник
@@ -1215,9 +1215,9 @@
 старость
 цивилизация
 драка
-лифт		elevator
+лифт		    elevator
 тряпка
-колбаса		sausage
+колбаса		    sausage
 отчет
 каша
 дьявол
@@ -1229,13 +1229,13 @@
 воробей
 мышца
 рассвет
-коммунизм
+коммунизм       communism
 глоток
-доказательство
-нация
+доказательство  evidence, proof
+нация           nation
 узел
 зависимость
-груз
+груз            load, cargo, freight
 империя
 комбат
 величина
@@ -1250,36 +1250,36 @@
 уголок
 лавка
 блюдо
-ток
+ток         current
 окоп
-демократия
-свойство
+демократия  democracy
+свойство    property, feature, characteristics
 приключение
 получение
 ступенька
-поза
+поза        pose, posture
 штат
 выборы
 носок
 сосна
-олень
+олень       deer
 перемена
 бригадир
 уверенность
 акция
 жених
-Китай
+Китай       China
 орел
 дневник
-суббота
+суббота     Saturday
 повышение
 гимнастерка
-статус
-папироса
+статус      status
+папироса    Sunday
 воскресенье
 проводник
 рюмка
-свеча
+свеча       candle
 белок
 решетка
 фактор
@@ -1291,39 +1291,39 @@
 окончание
 строка
 тротуар
-конфликт
+конфликт    sidewalk, pavement
 справка
-мебель
+мебель      furniture
 ноготь
 сосуд
 достижение
-асфальт
+асфальт     asphalt
 челюсть
 подвиг
-колдун
+колдун      wizard
 наряд
-рисунок
+рисунок     picture, drawing
 частность
 жалость
 транспорт
 наказание
 съезд
 рамка
-акт
+акт         act
 посетитель
-долина
+долина      valley
 выступление
 издание
-чашка
+чашка       cup
 соображение
 жир
 намерение
 ванная
-ложь
+ложь        lie
 кузнец
 балкон
 допрос
-спектакль
+спектакль   performance, play, show, spectacle
 почва
 легенда
 жидкость
@@ -1333,8 +1333,8 @@
 окошко
 сюжет
 осколок
-сок
-Кремль
+сок         Juice
+Кремль      Kremlin
 мышка
 эффект
 пещера
@@ -1435,30 +1435,30 @@
 интеллигенция
 почта		mail | post office
 монастырь
-практика
+практика    practice
 ярость
-академия
+академия    academy
 физиономия
 струя
 теща
 пришелец
-гном
+гном        gnome
 конверт
 процедура
 лужа
-юбка
+юбка        skirt
 звон
-люк		hatch
+люк         hatch
 аэропорт	airport
 богатство	wealth, fortune
 налог
 минимум		minimum
-ад		hell
+ад          hell
 полотенце
 воспаление
 наслаждение
 продажа
-фашист
+фашист      fascist
 полость
 проволока
 флот		fleet
@@ -1488,7 +1488,7 @@
 фантазия	fantasy
 спорт		sport
 июль		July
-телеграмма
+телеграмма  telegram, wire, cable
 напиток		drink, beverage
 торговля	trade, trading, commerce
 юмор
@@ -1522,15 +1522,15 @@
 англичанин
 наступление
 объём
-рёв		roar
-щит		shield
+рёв		    roar
+щит	    	shield
 стадо		flock, herd
 прогулка
 натура
 фуражка
 признание
 окраина
-маг		magician, wizard
+маг	    	magician, wizard
 обращение
 командировка
 подозрение
@@ -1546,7 +1546,7 @@
 нары
 катастрофа
 коллектив
-хор		choir
+хор		    choir
 заказ
 свидетельство
 трагедия
@@ -1611,7 +1611,6 @@
 башмак
 жажда
 преимущество
-лет
 проза
 имущество
 премия
@@ -1622,7 +1621,6 @@
 рис
 манера
 обычай
-пасть
 медаль
 биография
 Украина
@@ -1651,49 +1649,47 @@
 губернатор
 доверие
 подряд
-яд
-гостиная
+яд          poison
+гостиная    living room
 доход
-мак
+мак         magician, wizard
 инструкция
 спокойствие
 недоумение
-хоббит
+хоббит      hobbit
 бинокль
-лысый
-килограмм
+килограмм   kilogram
 марш
 вселенная
 тварь
 чайник
-лыжа
 беспокойство
 намёк
 плач
-трактор
-гитара
+трактор     tractor
+гитара      guitar
 замечание
 корточки
-раб
+раб         slave
 заведение
-знамя
+знамя       banner, flag
 бедро
 вспышка
-фрукт
+фрукт       fruit
 мотоцикл
 мероприятие
 чин
-администрация
+администрация   administration
 петля
 простыня
 витрина
 аппетит
 ресница
-критика
-шпион
-дуб
-свист
-технология
+критика     criticism
+шпион       spy
+дуб         oak
+свист       whistle
+технология  technology
 столетие
 партизан
 выходной
@@ -1805,9 +1801,7 @@
 граната
 упор
 котёнок
-котенок
 порошок
-кол
 голубчик
 седло
 формула
@@ -1984,10 +1978,8 @@
 фонарик
 дрянь
 понедельник
-райком
 мундир
 Польша
-висок
 падаль
 глина
 почка
