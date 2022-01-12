@@ -1,5 +1,5 @@
 человек		person, human
-год		    year
+год         year
 время		time
 рука		hand | arm
 дело        business, matter, case, work
@@ -7,9 +7,9 @@
 глаз		eye
 жизнь		life
 день		day
-голова		head
+голова      head
 друг		friend
-дом		    home, house
+дом         home, house
 слово		word
 место		seat, place
 лицо		face
@@ -357,7 +357,7 @@
 темнота		darkness
 станция		station
 гражданин   
-команда
+команда     command | team, crew
 заболевание disease, illness, sickness
 живот
 тишина		silence
@@ -373,7 +373,7 @@
 художник	painter
 знак		sign
 завод		factory
-кулак
+кулак       *fist
 стакан		glass
 рот		    mouth
 лечение		treatment
@@ -390,10 +390,10 @@
 здание		building
 милиция		militia
 волна       wave
-задача
+задача      (math) problem | (m.) sum | task
 старуха     old woman
-войско
-срок
+войско      *army
+срок        period
 ужас		terror
 материал	material
 крик		scream, cry, shriek
@@ -420,7 +420,7 @@
 танк		tank
 мёртвый
 журнал		magazine
-конь
+конь        horse
 стихи		poem
 степень
 фигура		figure
@@ -469,7 +469,7 @@
 принцип		principle
 направление	direction, management
 мастер		master
-ошибка
+ошибка      mistake, error
 высота		height
 существо	creature
 мальчишка	little boy
@@ -484,13 +484,13 @@
 клуб		club
 кость
 личность
-столица
+столица     *capital
 здоровье	health
 попытка		attempt, endeavor
 читатель	reader
 шутка		joke
 сотрудник	collaborator | colleague
-родина
+родина      homeland, motherland
 царь		tsar
 страница	page | webpage
 скорость	speed
@@ -503,12 +503,12 @@
 пиво		beer
 прием
 противник
-образование
+образование education
 продукт		product
 пуля
 книжка		(dim) book; booklet
 представитель
-производство
+производство    production, manufacture
 больница	hostpital
 ресторан	restaurant
 диван		sofa, couch, divan
@@ -521,10 +521,10 @@
 отсутствие	lack, absence
 настроение	mood
 покой
-процент
+процент     percent, percentage
 автобус		bus
 восток		east
-эхо
+эхо         echo
 автомобиль  automobile, car
 миг	    	moment
 отряд		squadron
@@ -538,7 +538,7 @@
 палатка		tent
 пьяный		drunk
 рада		Rada (parliament)
-доска
+доска       
 пистолет	pistol, handgun
 актер		actor
 потолок     ceiling, roof
@@ -553,7 +553,7 @@
 участок
 жертва
 меч	    	sword
-звонок
+звонок      bell
 кино		cinema
 мороз		frost
 адрес		address
@@ -572,46 +572,46 @@
 рукав		sleeve
 дедушка		old man | grandfather
 масло		oil
-существование
+существование   existence
 рождение
 воспоминание
 тон
 понятие
-песня
+песня       song
 крыло
 нарушение
 осень
-туман
-Ленинград
+туман       mist, fog
+Ленинград   Leningrad
 платье
 представление
 изменение	change, variation
 вариант		variant
 шофер		driver
-вход
+вход        entrance, entry
 чиновник
-поверхность
+поверхность surface
 аппарат
 церковь		church
-ручка
-хозяйка
+ручка       pen
+хозяйка     houswife
 дворец		palace
 водитель	driver
 множество	multitude
 столик		(dim) table
 урок		lesson
-опасность
+опасность   danger
 французский	French
 горе		grief, sorrow
-способность
-остальное
-работник
+способность ability, capability
+остальное   the rest, remaining
+работник    
 долг		debt, obligation
 специалист	specialist
 телевизор	television
 зло		    evil
 вкус		taste
-муха
+муха        fly
 поиск		search
 старшина
 озеро		lake
@@ -625,12 +625,12 @@
 родственник
 источник	source
 колесо
-грязь
-добро
+грязь       mud, dirt
+добро       good
 капля
-экран
+экран       screen
 руководитель
-инспектор
+инспектор   inspector
 удивление
 молоко		milk
 предложение
@@ -640,20 +640,20 @@
 кофе		coffee
 штаны
 охота
-бровь
+бровь       eyebrow
 список
-ствол
+ствол       eyebrow
 основание
 поведение
 усилие
-клетка
+клетка      cage | cell
 обстановка
 температура	temperature
 вывод
 предприятие
 подарок		gift, present
 отделение
-штука
+штука       piece | each
 защита		protection, defence | shield
 выстрел
 суть		core
@@ -677,7 +677,7 @@
 вершина		aphex, vertex, acme, summit, peak, pinnacle, top
 Париж		Paris
 убийство
-рубашка
+рубашка     shirt
 хозяйство
 парк		park
 режим		regime
@@ -705,7 +705,7 @@
 песнь		song
 облако		cloud
 морда		muzzle, snout
-записка
+записка     note
 ус		    mustache
 помещение
 плащ
@@ -722,9 +722,9 @@
 исследование	study, research | the result of that
 буква		character
 реакция		reaction
-пила
-обезьяна
-бригада
+пила        saw
+обезьяна    monkey
+бригада     brigade
 остаток
 пункт		point
 локоть		elboq
@@ -736,7 +736,7 @@
 поколение	generation
 ожидание	expectation
 фонарь		lantern
-куча
+куча        heap, pile
 полоса		strip, band, bar
 страсть
 сержант		sergeant
@@ -777,8 +777,8 @@
 мечта		daydreaming
 кольцо		ring
 дочка
-королева
-картошка
+королева    
+картошка    *potato
 достоинство
 медведь
 содержание
@@ -800,7 +800,7 @@
 сказка
 молодец
 собрание
-слон
+слон        elephant
 юноша       youth
 объект      object
 сравнение
@@ -811,11 +811,11 @@
 борода
 пачка
 привычка
-сумма
+сумма       sum
 поездка
-заявление
-поражение
-август
+заявление   manifestation
+поражение   defeat
+август      August
 север		North
 шляпа		hat
 молчание	silence
@@ -839,8 +839,8 @@
 поворот
 подробность
 столб
-канал
-пассажир
+канал       channel
+пассажир    passenger
 устройство
 влияние
 ракета		rocket
@@ -861,7 +861,7 @@
 огород
 запас
 особенность
-шар
+шар         
 печка
 открытие
 орден
@@ -873,7 +873,7 @@
 склад		storage, repository | mindset
 компьютер	computer
 рана
-коробка
+коробка     *box
 секрет		secret
 холм		hill
 ремень
@@ -888,7 +888,7 @@
 симптом		symptom
 бумажка		(dim) paper
 радио		radio
-профессия
+профессия   profession
 разведка
 свидетель
 халат		robe (bathroom)
@@ -949,10 +949,10 @@
 судья
 листок
 отдых
-золото
-угроза
-яблоко
-путешествие
+золото      gold
+угроза      threat
+яблоко      apple
+путешествие travel, trip | journey
 традиция
 Франция
 раненый
@@ -960,15 +960,15 @@
 американец
 знакомство
 следствие
-яйцо
+яйцо        egg
 поступок
 преступник
 звание
 дрова
 подушка
-бег
-тетка
-дивизия
+бег         run, running
+тетка       aunt
+дивизия     division
 коньяк
 др          dr.
 горизонт    horizon
@@ -977,8 +977,8 @@
 контакт     contact
 жук         bug, beetle
 шеф         chief, boss
-Петербург
-новость
+Петербург   Peterburg
+новость     news
 гений       genius | genie, jinn, jinni
 передача
 редакция
@@ -1008,7 +1008,7 @@
 комитет
 карточка	card
 итог		sum, total | result
-девка
+девка       young girl; wench | maiden
 воображение
 склон
 действительность
@@ -1025,31 +1025,31 @@
 стиль		style
 редактор
 щель
-давление
-режиссер
+давление    pressure
+режиссер    director
 дар
-метро
+метро       metro
 шанс		chance
-наблюдение
+наблюдение  supervision | observation | surveillance
 май		May
 туча
 дума
 клиент		client
-двигатель
+двигатель   engine, motor
 сентябрь	September
 завтрак		breakfast
-рыбак
+рыбак       fisherman
 взвод
-альбом
-болото
+альбом      album
+болото      swamp
 ответственность
-пламя
+пламя       flame
 снаряд
 марка
 заместитель
-папка
-концерт
-разум
+папка       folder, directory (comp.)
+концерт     concert
+разум       mind
 услуга
 белье
 благо
@@ -1058,11 +1058,11 @@
 модель		model
 разрешение
 наличие
-этап
-козёл
-возвращение
-идиот
-ненависть
+этап        stage, phase, milestone
+козёл       goat
+возвращение return
+идиот       idiot
+ненависть   hatred, hate
 лётчик
 лекция
 печь
@@ -1078,8 +1078,8 @@
 прибор
 кандидат
 портфель
-виза
-гибель
+виза        visa
+гибель      death
 карьера
 малыш
 назначение
@@ -1092,7 +1092,7 @@
 подготовка
 последствие
 красавица
-ковер
+ковер       
 анализ
 собственность
 прокурор
