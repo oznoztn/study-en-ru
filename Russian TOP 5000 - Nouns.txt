@@ -533,7 +533,7 @@
 артист		artist
 планета		planet
 порог		threshold
-явление		
+явление		phenomenon, happening, event
 красота		beauty
 палатка		tent
 пьяный		drunk
@@ -551,7 +551,7 @@
 начальство	command, direction | authorities | boss, chief, leader
 сожаление	regret
 участок
-жертва
+жертва      sacrifice, victim, offering
 меч	    	sword
 звонок      bell
 кино		cinema
@@ -563,18 +563,18 @@
 бык         bull
 текст		text
 тепло		(physics) heat | warmth
-песок
+песок       sand
 сомнение    doubt
 территория  territory
 тайна		secret | mystery
 волк        wolf
-приятель
+приятель    buddy, pal
 рукав		sleeve
 дедушка		old man | grandfather
 масло		oil
 существование   existence
-рождение
-воспоминание
+рождение        birth
+воспоминание    memory, recollection, remembrance
 тон
 понятие
 песня       song
@@ -589,7 +589,7 @@
 вариант		variant
 шофер		driver
 вход        entrance, entry
-чиновник
+чиновник    official, functionary, bureaucrat
 поверхность surface
 аппарат
 церковь		church
@@ -624,7 +624,7 @@
 толк		sense
 родственник
 источник	source
-колесо
+колесо      wheel
 грязь       mud, dirt
 добро       good
 капля
@@ -639,7 +639,7 @@
 совесть		conscience
 кофе		coffee
 штаны
-охота
+охота       hunting, hunt
 бровь       eyebrow
 список
 ствол       eyebrow
@@ -658,7 +658,7 @@
 выстрел
 суть		core
 труп		corpse
-основа
+основа      foundation, basis, base
 участие
 фон		    background
 признак		ghost
@@ -678,17 +678,17 @@
 Париж		Paris
 убийство
 рубашка     shirt
-хозяйство
+хозяйство   economy
 парк		park
 режим		regime
 руководство
 преступление
-стенка
+стенка      (dim) wall
 луна		moon
 богатый
-гостиница
+гостиница   hotel
 беседа		talk, conversation
-полк
+полк        regiment | group of people
 лапа		paw
 забор		fence
 пост		post
@@ -710,8 +710,8 @@
 помещение
 плащ
 подъезд
-следователь
-платок
+следователь investigator
+платок      shawl
 середина	middle, center, midpoint
 напряжение
 могила		grave
@@ -763,7 +763,7 @@
 пиджак
 тарелка
 пища
-подруга
+подруга     girlfriend
 взрыв		explosion
 сущность
 батарея
@@ -795,7 +795,7 @@
 полчаса
 железо
 отличие
-пес
+пес         dog
 орудие
 сказка
 молодец
@@ -803,12 +803,12 @@
 слон        elephant
 юноша       youth
 объект      object
-сравнение
+сравнение   comparison
 справа      right
 океан       ocean
-поселок
+поселок     small settlement; town
 тайга       taiga
-борода
+борода      beard
 пачка
 привычка
 сумма       sum
@@ -829,7 +829,7 @@
 крест		cross
 кабина		cabin, cubicle | (avia.) cockpit
 пальто		coat
-восторг
+восторг     delight, rapture
 экономика	economy
 забота		care
 талант		talent
@@ -954,7 +954,7 @@
 яблоко      apple
 путешествие travel, trip | journey
 традиция
-Франция
+Франция     France
 раненый
 депутат
 американец
@@ -1031,7 +1031,7 @@
 метро       metro
 шанс		chance
 наблюдение  supervision | observation | surveillance
-май		May
+май	    	May
 туча
 дума
 клиент		client
@@ -1064,8 +1064,8 @@
 идиот       idiot
 ненависть   hatred, hate
 лётчик
-лекция
-печь
+лекция      lecture
+печь        stove, oven, furnace
 государь
 верх
 изображение
@@ -1096,11 +1096,11 @@
 анализ
 собственность
 прокурор
-карандаш
+карандаш    pencil
 принц
-лидер
-спирт
-бизнес
+лидер       leader
+спирт       alcohol, spirits
+бизнес      business
 иностранец
 поп
 койка
@@ -1113,11 +1113,11 @@
 применение
 мука
 распоряжение
-галстук
+галстук     tie
 госпиталь
 училище
-стук
-скандал
+стук        knocking, knock
+скандал     scandal
 отпуск
 рукопись
 дура
@@ -1290,8 +1290,8 @@
 страдание
 окончание
 строка
-тротуар
-конфликт    sidewalk, pavement
+тротуар     sidewalk, pavement
+конфликт    conflict
 справка
 мебель      furniture
 ноготь
@@ -1599,7 +1599,7 @@
 продукция
 маршал
 интеллигент
-фабрика
+фабрика     factory
 показание
 пустяк
 растение
@@ -1618,14 +1618,14 @@
 внешность
 приход
 ставка
-рис
+рис         rice
 манера
 обычай
-медаль
-биография
-Украина
-Лондон
-тетрадь
+медаль      medal
+биография   biography
+Украина     Ukraine
+Лондон      London
+тетрадь     notebook
 велосипед
 колодец
 кончик
@@ -1646,7 +1646,7 @@
 трудность
 умение
 перерыв
-губернатор
+губернатор  governor
 доверие
 подряд
 яд          poison
@@ -1668,7 +1668,7 @@
 плач
 трактор     tractor
 гитара      guitar
-замечание
+замечание   remark, observarion | reproof, rebuke, reprimand
 корточки
 раб         slave
 заведение
@@ -1983,27 +1983,27 @@
 падаль
 глина
 почка
-профессионал
-катер
-шарик
+профессионал    professional
+катер       motor boat
+шарик       (dim) circle
 конфета
-виски
+виски       whiskey, scotch
 сетка
-бассейн
-заря
-метод
+бассейн     swimming pool
+заря        dawn, daybreak | dusk, nightfall, twilight
+метод       method
 человечек
 протяжение
-матка
-инстинкт
-красавец
+матка       womb, uterus
+инстинкт    instinct
+красавец    handsome man
 минутка
 правитель
 пяток
 изучение
 пехота
 заряд
-ребро
+ребро       rib
 сустав
 хребет
 пластинка
