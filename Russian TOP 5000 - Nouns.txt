@@ -1,15 +1,15 @@
 человек		person, human
-год         year
+год			year
 время		time
 рука		hand | arm
-дело        business, matter, case, work
-раз         time
+дело		business, matter, case, work
+раз			time
 глаз		eye
 жизнь		life
 день		day
-голова      head
+голова		head
 друг		friend
-дом         home, house
+дом			home, house
 слово		word
 место		seat, place
 лицо		face
@@ -19,7 +19,7 @@
 работа		work 
 земля		earth
 конец		end
-час		    time, hour
+час			time, hour
 голос		voice
 город		town, city
 вода		water
@@ -31,9 +31,9 @@
 машина		car | machine
 случай		case, occurence | event, incident
 ночь		night
-мир		    world | peace
-вид		    external image; appearance, look | aspect, facet
-ряд		    row, series, line
+мир			world | peace
+вид			external image; appearance, look | aspect, facet
+ряд			row, series, line
 начало		beginning | beginning, origin, source	
 вопрос		question
 война		war
@@ -55,7 +55,7 @@
 душа		soul, spirit
 утро		morning
 вечер		evening
-пол		
+пол			floor | sex, gender
 народ		nation
 плечо		shoulder
 бог		    God
@@ -84,12 +84,12 @@
 небо		sky
 смерть		death
 девушка		girl
-образ		
+образ		image, form
 письмо		letter
 власть		pwoer
 воздух		air
 брат		brother
-отношение
+отношение	attitude
 система		system
 квартира	apartment, flat
 любовь		LOVE
@@ -131,7 +131,7 @@
 возможность	possibility, opportunity, chance
 общество	society
 грудь		chest, breast
-угол
+угол        coal
 черный		black
 век		    century, age
 карман		pocket
@@ -141,7 +141,7 @@
 огонь		fire
 писатель	writer
 армия		army
-состояние	
+состояние	state, status, condition
 зуб	    	tooth
 очередь		queue, line
 камень		stone
@@ -162,7 +162,7 @@
 боль		pain
 судьба		fate, destiny
 причина		cause, reason, factor
-черта
+черта       straight line
 девочка		(dim) girl
 волос		voice
 номер		number
@@ -179,7 +179,7 @@
 речь
 средство	method, way | means
 положение
-связь
+связь       tie, relation | connection, link
 класс		class | classroom
 цель
 знать		nobility, noble people
@@ -198,7 +198,7 @@
 условие		condition, term
 ум		    mind
 процесс		process
-картина		picture-
+картина		picture
 центр		center
 будущее		future
 число		number
@@ -206,8 +206,8 @@
 вера		faith, belief
 удар		hit, blow, strike
 телефон		telephone
-колено
-коридор
+колено      knee
+коридор     corridor
 мужик
 автор		author
 встреча		meeting, encounter | date
@@ -246,7 +246,7 @@
 родитель	
 чай	    	tea
 род	    	family, clan, generation
-немецкий
+немецкий    German
 звук		sound
 магазин		shop, store | (weapon) magazin
 президент	president
@@ -276,14 +276,14 @@
 секунда		second
 банк		bank
 опыт		experience
-сапог
+сапог       boot
 правило		rule
 стекло		glass
 дочь		daughter
 член		member | limb
-десяток
+десяток     dozen
 цветок		flower
-желание
+желание     wish, desire
 дождь		rain
 лоб         forehead
 улыбка		smile
@@ -576,9 +576,9 @@
 рождение        birth
 воспоминание    memory, recollection, remembrance
 тон
-понятие
+понятие     concept, notion, idea
 песня       song
-крыло
+крыло       wing
 нарушение
 осень
 туман       mist, fog
@@ -605,7 +605,7 @@
 горе		grief, sorrow
 способность ability, capability
 остальное   the rest, remaining
-работник    
+работник    worker
 долг		debt, obligation
 специалист	specialist
 телевизор	television
@@ -772,12 +772,12 @@
 крыльцо
 вождь
 необходимость
-голод
+голод       hunger, famine
 девица
 мечта		daydreaming
 кольцо		ring
 дочка
-королева    
+королева    queen
 картошка    *potato
 достоинство
 медведь
@@ -872,7 +872,7 @@
 корпус		trunk | case, frame | corpus
 склад		storage, repository | mindset
 компьютер	computer
-рана
+рана		wound
 коробка     *box
 секрет		secret
 холм		hill
@@ -907,7 +907,7 @@
 гриб		mushroom, fungus
 погода		weather
 памятник
-жар		heat
+жар			heat
 механизм	mechanism
 Израиль		Israil
 потеря
@@ -929,15 +929,15 @@
 нерв
 вертолет	helicopter, chopper
 лекарство	medicine
-кладбище
+кладбище	cemetery, graveyard
 переход
 функция		function
 пулемет		machine gun
 батальон	battalion
 грузовик	truck
 император	emperor
-башня
-инструмент
+башня       tower, turret
+инструмент  instrument
 мелочь		trifle
 присутствие
 структура	structure
@@ -945,7 +945,7 @@
 участник
 задание		task, assignment
 перо
-сфера		sphere
+сфера       sphere
 судья
 листок
 отдых
@@ -989,7 +989,7 @@
 городок     (dom) city; town
 бандит
 москвич
-лаборатория
+лаборатория lab, laboratory
 молодёжь
 ноябрь      November
 строительство
@@ -1032,7 +1032,7 @@
 шанс		chance
 наблюдение  supervision | observation | surveillance
 май	    	May
-туча
+туча        rain cloud
 дума
 клиент		client
 двигатель   engine, motor
@@ -1076,7 +1076,7 @@
 бревно
 невеста
 прибор
-кандидат
+кандидат    candidate
 портфель
 виза        visa
 гибель      death
@@ -1092,7 +1092,7 @@
 подготовка
 последствие
 красавица
-ковер       
+ковер
 анализ
 собственность
 прокурор
@@ -1111,7 +1111,7 @@
 спутник
 отчаяние
 применение
-мука
+мука        flour
 распоряжение
 галстук     tie
 госпиталь
@@ -1197,7 +1197,7 @@
 судно
 туалет
 окружающее
-атмосфера
+атмосфера       atmosphere
 удача
 оценка
 пароход
@@ -1236,14 +1236,14 @@
 узел
 зависимость
 груз            load, cargo, freight
-империя
+империя         empire
 комбат
 величина
 крышка
 воздействие
 кирпич
 глазок
-турист
+турист		tourist
 обмен
 перевод
 стрела
@@ -1335,32 +1335,32 @@
 осколок
 сок         Juice
 Кремль      Kremlin
-мышка
-эффект
-пещера
+мышка		(fig) mouse
+эффект		effect
+пещера		wheat
 зад
-разрыв
+разрыв		tear | explosion
 цех
 подоконник
 тыл
-металл
-фонд
+металл      metal
+фонд        fund
 майка
-рай
+рай         eden, paradise       
 корреспондент
-схема
+схема       scheme
 четверть
 ерунда
 несчастье
 окружение
 учительница
 предок
-кислота
-анекдот
-подпись
-гнев
+кислота     acid | lsd
+анекдот     anecdote
+подпись     signature
+гнев        wrath, fury, anger
 общежитие
-рог
+рог         horn
 штурман
 физика
 змея
@@ -1424,7 +1424,7 @@
 бюджет
 боцман
 барак
-архив
+архив       archive
 палуба
 юность
 сбор		harvest, gathering
@@ -1473,10 +1473,10 @@
 расход		
 зависть
 барон
-бред
+бред        delirium
 прихожая
 комендант
-кисть
+кисть		brush
 цирк		circus
 квартал
 жильё
@@ -1491,7 +1491,7 @@
 телеграмма  telegram, wire, cable
 напиток		drink, beverage
 торговля	trade, trading, commerce
-юмор
+юмор        humor
 отъезд
 чтение
 сумерки
@@ -1506,7 +1506,7 @@
 термин
 интервью
 приезд
-табак
+табак		tobacco
 переговоры
 гараж		garage
 сталкер		stalker
@@ -1563,10 +1563,10 @@
 шуба
 продолжение
 арест
-китаец
-капитал
-космос
-Италия
+китаец          chinese, chinaman
+капитал         (money) capital
+космос          cosmos, universe
+Италия          Italy
 заключённый
 заключенный
 описание
@@ -1576,10 +1576,10 @@
 полдень
 сынок
 выставка
-ноль
+ноль            null
 кишка
 величество
-зерно
+зерно           grain, cereal
 цепочка
 монета
 протокол
@@ -1587,7 +1587,7 @@
 перчатка
 село
 рожа
-дата
+дата            data
 зелень
 каюта
 февраль
@@ -1626,13 +1626,13 @@
 Украина     Ukraine
 Лондон      London
 тетрадь     notebook
-велосипед
-колодец
+велосипед   bike, bicycle
+колодец     well
 кончик
-ванна
+ванна		bathtub | bath, bathroom
 жалоба
 стрельба
-холодильник
+холодильник	refrigerator, fridge
 исход
 воспитание
 награда
@@ -1653,7 +1653,7 @@
 гостиная    living room
 доход
 мак         magician, wizard
-инструкция
+инструкция	instruction
 спокойствие
 недоумение
 хоббит      hobbit
@@ -1665,7 +1665,7 @@
 чайник
 беспокойство
 намёк
-плач
+плач		cry, crying, weeping
 трактор     tractor
 гитара      guitar
 замечание   remark, observarion | reproof, rebuke, reprimand
@@ -1777,16 +1777,16 @@
 башка
 буря
 пионер
-философия
+философия   philosophy
 шерсть
 приговор
 фюрер
 ягода
 ограда
-фокус
+фокус       focu
 тонна
 материя
-мышь
+мышь        mouse
 побег
 учение
 размышление
@@ -1812,7 +1812,7 @@
 командование
 окурок
 мяч
-философ
+философ         philosopher
 расстройство
 аэродром
 закат
@@ -1882,11 +1882,11 @@
 сантиметр
 секретарша
 печаль
-грамм
+грамм       gram
 пропасть
 пилот
 брюхо
-семя
+семя        semen, seed
 полоска
 рабочий
 предположение
@@ -1896,7 +1896,7 @@
 градус
 осложнение
 комар
-флаг
+флаг        flag
 кастрюля
 известие
 всадник
@@ -1912,7 +1912,7 @@
 коза
 дымок
 визг
-офис
+офис        office
 повар
 касса
 скатерть
@@ -1944,7 +1944,6 @@
 мелодия
 вал
 формирование
-Канада
 горшок
 грань
 курица
@@ -2041,7 +2040,7 @@
 устав
 погон
 мудрость
-фонтан
+фонтан      fountain
 битва
 жилец
 горечь
@@ -2056,12 +2055,12 @@
 груша
 гроза
 кислород
-шахта
+шахта       mine
 удав
 выпуск
 хирург
 символ
-магия
+магия       magic
 развод
 неправда
 перестройка
@@ -2106,7 +2105,7 @@
 самоубийство
 нежность
 сейф
-миф
+миф         myth
 правление
 валюта
 блин
@@ -2126,15 +2125,15 @@
 валенок
 солдатик
 паровоз
-интернет
-алкоголь
+интернет	internet
+алкоголь	alcohol
 измерение
-актриса
+актриса		actress
 размах
-призрак
-математика
-собор
-сыр
+призрак		ghost, specter, phantom, appariton
+математика	matchematics
+собор		cathedral
+сыр			cheese
 соединение
 самовар
 канифоль
@@ -2150,7 +2149,7 @@
 концепция
 особняк
 весть
-бабочка
+бабочка		butterfly
 изделие
 студия
 видение
@@ -2169,7 +2168,7 @@
 премьера
 букет
 кредит
-эшелон
+эшелон		echelon
 староста
 нетерпение
 кодекс
@@ -2202,7 +2201,7 @@
 верста		versta
 подружка
 практик
-взятка
+взятка      bribery
 гусеница
 объятие
 отставка
@@ -2217,7 +2216,7 @@
 премьер
 рывок
 сопка
-торговец
+торговец	trader, vendero, merchant
 эфир		ether
 приезжий
 строитель
