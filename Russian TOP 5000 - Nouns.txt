@@ -302,7 +302,7 @@
 дурак		fool, idiot
 союз		union
 лето		summer
-граница
+граница     border, boundary
 цвет		color
 свобода		freedom
 стул		chair
@@ -344,7 +344,7 @@
 папа		papa, dad, father
 лагерь		camp
 птица		bird
-корабль
+корабль     ship
 мнение		opinion
 зима		winter
 километр	kilometer
@@ -482,8 +482,8 @@
 замок		lock or castle
 рынок
 клуб		club
-кость
-личность
+кость       bone
+личность    personality, individuality
 столица     *capital
 здоровье	health
 попытка		attempt, endeavor
@@ -627,23 +627,23 @@
 колесо      wheel
 грязь       mud, dirt
 добро       good
-капля
+капля       drop, blob, bead
 экран       screen
 руководитель
 инспектор   inspector
 удивление
 молоко		milk
 предложение
-среда
+среда       Wednesday
 площадка	playground
 совесть		conscience
 кофе		coffee
 штаны
 охота       hunting, hunt
 бровь       eyebrow
-список
+список      list, roster
 ствол       eyebrow
-основание
+основание   base, foundation, basis
 поведение
 усилие
 клетка      cage | cell
@@ -715,17 +715,17 @@
 середина	middle, center, midpoint
 напряжение
 могила		grave
-тоска
+тоска       melancholy, yearning
 борт
 грех		sin
-строй
+строй       order, regime | formation
 исследование	study, research | the result of that
 буква		character
 реакция		reaction
 пила        saw
 обезьяна    monkey
 бригада     brigade
-остаток
+остаток     remainder, residue
 пункт		point
 локоть		elboq
 краска      dye, paint
@@ -756,12 +756,12 @@
 выбор		choice (decision or option)
 сведение
 комиссия
-палка
+палка       stick
 колонна		column, pillar
 лёд		    ice
 надпись
 пиджак
-тарелка
+тарелка     plate (a serving dish)
 пища
 подруга     girlfriend
 взрыв		explosion
@@ -797,7 +797,7 @@
 отличие
 пес         dog
 орудие
-сказка
+сказка      fairy tale, story
 молодец
 собрание
 слон        elephant
@@ -842,14 +842,14 @@
 канал       channel
 пассажир    passenger
 устройство
-влияние
+влияние     influence, effect
 ракета		rocket
 смена		change
 затылок
 юг	    	South
 эпоха		epoch, era
 товар
-ветка
+ветка       branch
 разведчик
 боже
 молодость
@@ -861,9 +861,9 @@
 огород
 запас
 особенность
-шар         
-печка
-открытие
+шар         ball, sphere
+печка       stove
+открытие    opening
 орден
 ботинок		high shoe, boot
 польза		benefit, favor, advantage
@@ -876,7 +876,7 @@
 коробка     *box
 секрет		secret
 холм		hill
-ремень
+ремень      belt
 произведение
 цифра		password
 привет
@@ -889,8 +889,8 @@
 бумажка		(dim) paper
 радио		radio
 профессия   profession
-разведка
-свидетель
+разведка    intelligence, reconnaissance | int. service
+свидетель   eyewitness, witness
 халат		robe (bathroom)
 тьма		darkness
 сообщение	communication, conveyance | message
@@ -899,14 +899,14 @@
 жест		gesture
 шоссе		highway
 уважение
-цепь
+цепь        chain
 подвал
 лампа		lamp
-доля
+доля        share
 старушка
 гриб		mushroom, fungus
 погода		weather
-памятник
+памятник    monument
 жар			heat
 механизм	mechanism
 Израиль		Israil
@@ -926,7 +926,7 @@
 сигнал		signal
 библиотека	library
 сеть		network | net
-нерв
+нерв        nerve
 вертолет	helicopter, chopper
 лекарство	medicine
 кладбище	cemetery, graveyard
@@ -953,11 +953,11 @@
 угроза      threat
 яблоко      apple
 путешествие travel, trip | journey
-традиция
+традиция    tradition
 Франция     France
 раненый
 депутат
-американец
+американец  American
 знакомство
 следствие
 яйцо        egg
@@ -992,7 +992,7 @@
 лаборатория lab, laboratory
 молодёжь
 ноябрь      November
-строительство
+строительство   construction
 пакет       package, packet
 пенсия      pension
 ценность    value, worth
@@ -1086,7 +1086,7 @@
 гвоздь
 кафе		cafe
 убийца
-японский
+японский    Japanese
 обязанность
 отель
 подготовка
@@ -1097,11 +1097,11 @@
 собственность
 прокурор
 карандаш    pencil
-принц
+принц       prince
 лидер       leader
 спирт       alcohol, spirits
 бизнес      business
-иностранец
+иностранец  alien, stranger
 поп
 койка
 руль
@@ -1221,7 +1221,7 @@
 отчет
 каша
 дьявол
-сарай
+сарай           barn
 использование
 творчество
 проход
@@ -1305,8 +1305,8 @@
 рисунок     picture, drawing
 частность
 жалость
-транспорт
-наказание
+транспорт   transport, transportation
+наказание   punishment
 съезд
 рамка
 акт         act
@@ -1316,7 +1316,7 @@
 издание
 чашка       cup
 соображение
-жир
+жир         fat
 намерение
 ванная
 ложь        lie
@@ -1327,7 +1327,7 @@
 почва
 легенда
 жидкость
-блок
+блок        block, unit
 усталость
 нужда
 окошко
@@ -1340,7 +1340,7 @@
 пещера		wheat
 зад
 разрыв		tear | explosion
-цех
+цех         shop, section (of a factory)
 подоконник
 тыл
 металл      metal
@@ -1443,7 +1443,7 @@
 теща
 пришелец
 гном        gnome
-конверт
+конверт     envelope
 процедура
 лужа
 юбка        skirt
@@ -1451,7 +1451,7 @@
 люк         hatch
 аэропорт	airport
 богатство	wealth, fortune
-налог
+налог       tax / duty
 минимум		minimum
 ад          hell
 полотенце
@@ -1493,7 +1493,7 @@
 торговля	trade, trading, commerce
 юмор        humor
 отъезд
-чтение
+чтение      reading
 сумерки
 овраг
 авиация
