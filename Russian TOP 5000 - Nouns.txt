@@ -2216,7 +2216,7 @@
 премьер
 рывок
 сопка
-торговец	trader, vendero, merchant
+торговец	trader, vendor, merchant
 эфир		ether
 приезжий
 строитель
