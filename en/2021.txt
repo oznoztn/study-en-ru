@@ -2,7 +2,6 @@ wedge
 scalpel
 penant (2)
 profuse (2)
-taper
 demeanor
 phlegm
 mannequin
@@ -29,8 +28,7 @@ propitious
 pauper
 navel
 burp
-favourable
-favorable
+favorable - favourable
 enmity
 prestidigitation
 prestidigitous
@@ -70,7 +68,6 @@ eviscerate (3)
 conglomerate
 sandpaper
 pummel
-veracity
 resumption
 breakout (3)
 peon
@@ -82,7 +79,6 @@ refinance
 munch
 buccaneer
 puddle
-hawk
 falcon
 Kafkaesque
 jam (3)
@@ -112,15 +108,15 @@ misguided
 foothold (2)
 timid
 doomed
-crystalize
+crystalize (2)
 amoral
-grievous 
+grievous (2)
 sacrosanct
 caveat
 hard-line
 pro bono
 rosy
-impunity
+taper
 apace
 incentivize
 anthrax
@@ -154,14 +150,13 @@ miscarry (2)
 miscarriage (2)
 ingrained
 concern
-faculty (2)
 crass 
 retaliate
 fruition (2)
 racetrack
 choach
 decisive
-Procrustean
 outsize
 circumstellar 
+prostitution
 apothecary

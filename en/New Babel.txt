@@ -1,0 +1,662 @@
+Aries
+Taurus
+Gemini
+Cancer
+Leo
+Virgo
+Libra
+Scorpio
+Sagittarius
+Capricorn
+Aquarius
+Pisces
+Euxine
+Caspian
+razor
+hedge
+gardening
+charge
+passage (2)
+plot (3)
+tabloid
+pound (2)
+sneeze 
+tide 
+cello
+choir
+coral
+unfit (3)
+bad
+canned
+cruise
+cycle
+commercial
+puzzled
+debit
+affect (2)
+reel (2)
+presenter
+critic
+agent
+deck
+horn
+plumber
+faint
+peanuts
+cashews
+pistachio
+eggplant
+cucumber
+garlic
+zucchini
+landlady
+semen
+shrewd (2)
+predecessor (2)
+composure
+keepsake
+emerald
+oaf
+nomad
+nomadic (2)
+savior
+mutiny
+toad (2)
+bloke
+serf
+serfdom
+avalanche (n,v)
+conductor (3)
+sycamore
+odor (2)
+superstition
+dormer
+verbatim
+county
+perspiration (2)
+well-being
+Jesuit
+tipsy
+migrate
+swallow
+nun
+perk (2)
+bard
+publicity
+abbey
+rancher
+hypothetical
+porker (2)
+sawdust
+referee
+enterprising
+indication
+municipal (2)
+function
+beverage
+mow (2)
+manacle
+waist
+siesta
+dizzy
+godsend
+reprimand
+goldsmith
+forgery (2)
+revolver
+toffee
+pus
+loathe 
+mag (2)
+putz (2)
+vascular
+porch
+marijuana
+killjoy
+Cain
+Abel
+nostril
+prosperity
+puke
+bedouin
+victor
+vertex
+apex
+odour
+triage (2)
+diminutive (na)
+squirrel
+delve (2)
+phosphorescent
+exterminate
+extermination
+acme
+Hebraic (2)
+tycoon
+storey
+forehead
+epidermis
+epicenter (2)
+epicentre
+marksman
+carcinogen
+dispirit
+infirmary
+tusk
+propeller
+hyperbole
+grassland
+frostbite
+period
+insecticide
+pesticide
+cul-de-sac (2)
+idiocy (2)
+pageant (2)
+needy (2)
+limestone
+import (2)
+paragon
+commotion (2)
+concession
+appreciation (2)
+cardboard
+indicate 
+womanize
+snob (2)
+snobbish
+religiosity (2)
+indecisiveness
+lamppost
+assembly
+stagnation
+juiceless (2)
+midst
+meathead (2)
+fin
+spoilsport
+sunny
+hook
+deli
+camion
+heroin
+screenplay
+chivalry
+questionable (2)
+demonstrator
+ivory
+viper
+epoch
+decimal
+surplus
+outcome
+intestine
+excrete (2)
+circumcise
+onus
+await (2)
+turnstile
+mustard
+urinate
+shebang
+barf
+cornstarch
+punitive
+doodle (vn)
+downpour
+fauna
+flora
+jackdaw
+offspring (3)
+locomotion (2)
+souvenir
+clamp
+insubordination
+cunnilingus
+gas
+excavate
+seraph
+seraphim
+sentiment (2)
+avocation
+excrement
+humus
+sporadic
+sporadically
+chap
+poolroom
+venison (2)
+porter
+sagacity
+docile
+bleach (vn)
+bleacher (n)
+industry
+propensity
+greyhound
+sphere (2)
+bricklayer
+bellows
+higgle
+stationary (2)
+exorbitant
+enable
+china (2)
+usurp
+usurper
+overhear
+eavesdrop
+intend
+intricate
+smash
+perplex
+incognito
+resilient (2)
+milieu
+disservice
+self-denial (2)
+affinity (3)
+entrepreneur
+butler
+graze (3)
+soul-searching
+hackneyed
+elucidate
+deleterious
+eschew
+dogmatic
+acquiesce
+immutable
+statuette
+hatchet
+staircase
+suitcase
+luggage
+diminution
+supposition
+jukebox
+procreate
+incision (2)
+defecate
+scarab
+whelp (vn)
+manslaughter
+lovesick
+homesick
+fedora
+procrastinate
+ceiling
+naysay
+naysayer
+asphyxiation (2)
+asphyxia
+curfew (3)
+sobriquet
+patently
+myriad
+mediator
+consent
+thrive
+measles
+whodunit
+disrobe
+retail
+condominium (3)
+condo
+vocation (2)
+rabies
+wrapper (2)
+fast
+comb
+exodus (2)
+pater
+bug (5)
+lane
+boozy
+unobtrusive
+fig
+caliph
+carol
+maiden
+bowel
+rivulet
+despicable
+full-blown
+rodent
+mermaid
+assign
+ceaseless
+solution
+assemble
+pikey
+obedient
+obedience
+bliss
+sound
+escalate
+escalation
+elongate
+prolong
+flaw (2)
+acidification
+vinegar
+emaciation
+zinc
+hippie
+vertebrate
+cue
+drawer
+vibe
+cupboard
+scarecrow
+scaremonger
+maritime
+unconventional
+comrade (2)
+drunkard
+celibacy (2)
+inquire (2)
+whereabouts
+garland
+omit
+intriguing
+intangible
+timetable (2)
+accentuate
+actualize
+triad
+eyesore
+sound
+charlatan
+adroit
+ogle
+fornication
+imbroglio
+portmanteau (2)
+smog
+mofo
+bidirectional
+manwhore (2)
+normalcy
+normality
+spay
+exemption (3)
+Angeleno
+neigh
+consigliere
+cremation
+domesticate
+aggravate (2)
+augment
+terminal
+acronym
+foolproof
+prairie
+facilitate
+obliterate (2)
+denounce (2)
+permeate (2)
+necrophobia
+turkic
+cauliflower
+complementary
+complimentary (2)
+defamatory
+defamation
+moniker
+prick
+hype (vn)
+walnut
+magnetite
+trio
+bovine (2)
+eaves
+attic
+bathe (2)
+submissive
+diarrhea
+gasoline
+commander
+epiphany (2)
+tuxedo
+morphology
+seaweed
+slipper
+faucet
+feces
+alimony
+dough
+idolatry
+imperil
+burial
+azure
+nepotism
+cronyism
+bobcat
+carve
+indistinct
+obligatory (2)
+rapturous
+justify
+precedent (2)
+intoxicate (3)
+excel
+unpalatable (2)
+muster
+kiosk
+greenery
+indifferent
+respiratory
+respiration
+shun (2)
+expend (2)
+cesspool (2)
+cessation (2)
+fork (3)
+reminiscence
+resourceful
+mutable
+mutability
+imposter
+lettuce
+salami
+ham
+plum
+date
+curious
+embezzlement
+embezzle
+impoverished (2)
+whatnot (2)
+sophomore
+yoni (2)
+yonic
+teensy
+pacemaker
+brigand
+premium
+brunch 
+tribute
+enamored
+sunstroke
+developer
+coefficient
+scalability
+paralegal
+lye
+leverage (2)
+equidistant
+equipoise
+temperament
+clergy
+elegy
+resemblance
+compulsory
+mishap
+moslem
+janitor
+pandemonium
+quantum
+dusk
+pudge
+stimuli
+redneck
+alloy
+nightfall
+widow
+widower
+stench
+unprecedented
+exploitation
+misadventure
+impairment
+cooler
+heyday
+pacifist
+addendum
+copious
+euphemism
+adolescent
+respiration
+fine
+hardship
+contradict
+crank
+opinionated
+limbo
+schemer
+incarcerate
+reckless
+novella
+lexicon (2)
+penniless
+soundness
+euphoria
+hap
+console
+sheen
+boulder
+pharmaceutical (2)
+unrestrained
+evildoer
+donut
+dye
+coroner
+truncate
+enthrall
+culprit (2)
+layman
+infomercial
+scapegoat
+pompous
+whatsoever
+terse
+ominous
+fragrance (2)
+contort
+wage
+cuisine
+incinerate
+unprecedented
+disembark
+infatuation
+transitory
+thaw (4)
+
+dune
+soothsayer
+reaching
+rattle
+mild 
+stool (2)
+adultery
+elephantine
+utmost
+oxymoron
+misfit
+matchmaker
+numskull
+layoff (2)
+downsize (3)
+whorehouse
+Everyman
+transient (2)
+forte
+delirium
+delusion (2)
+hone (2)
+daunting
+bogus
+humongous
+uneventful
+headlock
+blackout (4)
+shoplifting
+dumpster
+zeitgeist
+bordello
+uncharted
+shoplifter
+formidable (3)
+skyjack
+outspoken
+fortright
+candid
+infuriate
+abomination
+racket
+veil (va)
+eerie
+providing
+teardown (2)
+parlance
+filthy (3)
+odious (2)
+seamless (2)
+religiously (2)
+heist (vn)
+nonentity (2)
+gauntlet
+serene (2)
+juggernaut (2)
+reindeer
+sepsis
+septic
+aberration
+gambol
+fraction (2)
+livestock
+commemorate
+sagacious
+duvet
+contour (3nv)
+sturdy (3)
+bungalow
+savor (4)
+vine (2)
+overlook (3)
+effeminate
+pseudonym
+abdomen
+lore
+frogman
+opulent
+sloth
+servitor
+sibling
+bolster (vn)
+promotion
+loadstone
+devise
+economize (2)
+avarice
+tendon
+haji
+pimple
+fuckwit (2)
+crowbar
+contraband
+holster (2)
+baton
+lid
+prank

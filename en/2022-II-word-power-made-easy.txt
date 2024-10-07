@@ -1,3 +1,4 @@
+egoist
 egotist
 egomaniac
 egomaniacal
@@ -28,7 +29,7 @@ misandrist
 monogamy
 monogamous
 monogamist
-bigamy
+bigamy (2)
 bigamous
 bigamist
 polygamy
@@ -95,7 +96,7 @@ geriatrician
 geriatric
 podiatrist
 psyche
-psychic
+psychic (na)
 psychosomatic
 psychogenic
 pedodontist
@@ -170,10 +171,9 @@ inveterate (2)
 inveteracy
 veteran
 congenital
-chronic
-pathological (3)
 unconscionable (2)
 glib
+glibness
 egregious
 egregiousness
 geneticist
@@ -192,6 +192,8 @@ incongruity
 synchronize
 synchronization
 synchronous
+chronic
+pathological (3)
 pathology
 pathologist
 sympathy
@@ -209,11 +211,8 @@ prescient
 prescience
 nescience
 nescienct
-glibness
 gregarious
 gregariousness
-congregate
-congregation
 segregate
 segregation
 aggregate
@@ -223,7 +222,7 @@ equivocate
 titillate
 adulate
 proscribe
-obviate
+obviate (2)
 militate
 malign 
 condone
@@ -243,7 +242,6 @@ double entendre
 equitable
 equity (4)
 inequitable
-iniquity (2)
 iniquitous
 equinox
 equinoctual
@@ -298,7 +296,7 @@ benevolent
 benevolence
 bona fide (2)
 fidelity (2)
-infidelity (2)
+infidelity
 infidel
 dictatorial
 volition
@@ -315,10 +313,11 @@ complacent
 complacence
 complacency
 condonation
-laconic
 inarticulate
+inarticulateness
 garrulous
 banal
+verbosity
 verbose
 voluble
 cogent
@@ -341,6 +340,7 @@ colloquial
 colloquialism
 circumlocution
 circumlocutory
+laconic
 laconicity
 laconism
 laconicism
@@ -350,11 +350,9 @@ magniloquent
 magniloquence
 grandiloquent
 grandiloquence
-verbosity
 volubility
 garrulity
 cogency
-verbatim
 verbal
 verbalize
 verbiage
@@ -385,22 +383,19 @@ perambulate
 perambulation
 amble
 preamble
+sopor
 soporific
-inarticulateness
 banality
 martinet
 sycophant
-dilettante
 virago
 chauvinist (2)
 monomaniac
-iconoclast (2)
-hypochondriac
-hypochondriasis
 martinetish
 sycophancy
 sycophantic
 diaphaneous
+dilettante
 dilettanti
 dilettantism
 dilettantish
@@ -409,8 +404,6 @@ virtuoso
 virtuosi
 termagant (n,a)
 harridan
-chauvinism
-chauvinistic
 patrimony
 patronymic
 homonym
@@ -433,11 +426,11 @@ matrimony
 matrimonial
 suicide
 suicidal
-matricide
+matricide (2)
 matricidal
-patricide
+patricide (2)
 patricidal
-fratricide
+fratricide (3)
 fratricidal
 sororicide
 sororicidal
@@ -453,7 +446,8 @@ infanticide
 infanticidal
 genocide
 genocidal
-parricide
+feticide
+parricide (3)
 parricidal
 fraternize  (2)
 fraternization
@@ -495,9 +489,10 @@ agoraphobic
 acrophobia
 acrophobe
 acrophobic
+iconoclast (2)
 iconoclasm
 iconoclastic
-agnostic
+agnostic (na)
 agnosticism
 diagnosis
 diagnose
@@ -559,7 +554,7 @@ gormandize
 glutton
 gluttony
 gluttonous
-gluttonize*
+gluttonize
 indefatigability
 ingenuousness
 ingenious (2)
@@ -630,8 +625,6 @@ rusticity
 rusticate
 rustication
 pejorative
-penury
-vicarious
 ephemeral
 euphemism
 badinage
@@ -686,12 +679,13 @@ carnivore
 carnivorous
 herbivore
 herbivorous
+omnivore
 omnivorous (2)
 voracious (2)
 voracity
-omnipotent
 impotence (2)
 impotent (2)
+omnipotent
 omnipotence
 omniscient
 omniscience
@@ -701,8 +695,6 @@ ubiquitous
 ubiquity
 ubiquitousness
 omnibus (2n) (a)
-carnal
-carnality
 carnage
 reincarnation
 reincarnate
@@ -714,6 +706,8 @@ castigate (2)
 abnegate
 recapitulate
 recap
+recapitulation (2)
+recapitulatory
 vegetate (2)
 alleviate
 commiserate
@@ -729,8 +723,6 @@ negate (2)
 negation
 decapitate
 decapitation
-recapitulation
-recapitulatory
 capitulate (2)
 capitulation
 simulation
@@ -750,7 +742,6 @@ levity
 commiseration
 vacillation
 vacillatory
-ambivalent
 ambivalence (2)
 oscillate
 oscillation

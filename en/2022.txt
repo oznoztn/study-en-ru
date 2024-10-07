@@ -8,7 +8,7 @@ periphery
 stammer
 stutter
 florist
-sift (n3v)
+sift (3v)
 squander (2)
 shuss
 barn
@@ -28,7 +28,6 @@ gattling
 abominable
 laggard (na)
 frugal
-plight (n)
 nonspatial
 wick
 pernicious
@@ -37,12 +36,11 @@ windbag
 soot
 opulence (2)
 amenity
-attrition
+attrition (2)
 suzerain
 enthuse (2)
 absolution
 oratory
-foment
 nostalgia
 pedant
 pedantic
@@ -59,7 +57,6 @@ bossy
 harlot
 courtship (2)
 substrate
-neonate
 unsightly
 zarf (2)
 coercive
@@ -72,21 +69,18 @@ dimwit
 simile
 comorbidity 
 bespoke
-upshot
 proviso
 ostensible
 repugnance
-scab
 nosy
 nosey
 perjury
-meagre
 gruesome
 hatch (2)
 nursery (2)
 oviposition
 confection
-rift (3)
+rift (2)
 unscathed
 brunette (na)
 cameo
@@ -120,7 +114,6 @@ teetotaler
 apple-polisher
 persecute
 beget (2)
-canopy
 sundry
 sodomite
 doxx
@@ -132,7 +125,6 @@ conducive
 mural
 savvy
 premise
-acorn
 onslaught
 laundromat
 disgruntled
@@ -144,7 +136,6 @@ depose
 misconduct
 trickster (2)
 barrage (2)
-flask
 buoy
 finial
 uninhibited
@@ -174,7 +165,6 @@ forsake (2)
 incessant
 hammock
 sleuth
-germane
 tirade
 earmark (2)
 perennial (3)
@@ -199,3 +189,18 @@ primacy
 lingo
 efface
 pang (2)
+insurrection
+aisle
+mutton
+dandy (2)
+murky (3)
+superfluity (3)
+debase (3)
+barley
+tin
+extricate
+extrication
+inextricable (2)
+zephyr (2)
+tribultion (2)
+cantankerous

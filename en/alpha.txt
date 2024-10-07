@@ -1,6 +1,5 @@
-equitable
 twig
-astringe*
+astringe
 hum (3)
 maladroit
 indeed
@@ -19,11 +18,9 @@ haul
 perish 
 solemn
 fragrant  
-potter
 pottery (3)
 diverse
 utterance (2)
-grievous 
 befall
 supposed
 supposedly
@@ -43,7 +40,7 @@ providence
 twitter
 mundane (2)
 profound (5)
-entertain (3)
+
 condemn (4)
 derision
 derisive
@@ -52,7 +49,6 @@ fiscal
 elude (2)
 elusive (2)
 convenient
-rustic (3)
 skinny
 prophecy
 heartfelt
@@ -73,7 +69,6 @@ dishonest
 dishonesty
 tremble
 sicken (2)
-pestilence
 expel (2)
 cleanse  
 derive        
@@ -92,6 +87,7 @@ awry
 astray
 horseshoe
 latitude (2)
+longitude
 shift (2)
 purposeful (3)
 considerate 
@@ -104,7 +100,6 @@ publication (2)   
 dew
 vow (v,n)
 ascend (v)
-twit 
 phallus
 arbitrary
 caduceus
@@ -135,10 +130,8 @@ petal
 oddly
 infer
 conduit
-exploit
 cure-all
 tray
-pan
 pour
 plain
 injure (2)
@@ -197,7 +190,6 @@ annihilate (2)
 uxoricide 
 stellar
 vicinity
-simplistic
 concentrated
 limb 
 compact (v, n)
@@ -208,7 +200,6 @@ abbreviate
 concentrate
 sedulous 
 comply
-circumstellar 
 shrink
 flint
 relevant
@@ -230,7 +221,6 @@ instead
 eager
 conservative
 audience
-brat 
 specialist
 ensure
 heroine
@@ -252,14 +242,12 @@ vizier
 hooker
 odour
 bosom
-violet
 exorcism
 nausea
 overly
 scope (3)
 flawless
 cattle
-calf   
 bullock
 ass
 grasshopper
@@ -309,7 +297,6 @@ annual (3)
 afterwards
 dilemma (2)
 incident
-decapitate
 frustrate (2)
 tie
 ribbon (3)
@@ -317,7 +304,6 @@ cramp
 frustration
 suburban
 suburb
-rural
 slaughter (v,n)
 edge (3)
 excellence (2)
@@ -346,8 +332,8 @@ damp
 moist (3)
 moisten (3)
 tropic
-Cancer 
-Capricorn
+
+
 pear
 quiver
 refugee
@@ -402,7 +388,6 @@ despair (nv)
 conscience
 concrete
 buffoon  
-placid (2)
 dim (3)
 servant
 consultancy (2)
@@ -457,7 +442,6 @@ pendulum
 escalator
 hemp
 handkerchief  
-cabbage
 bracelet 
 wrist
 barleycorn (2)
@@ -479,7 +463,6 @@ literal
 clueless
 long-term
 landscape
-prospect
 barely
 bench
 scorn (2)
@@ -495,7 +478,6 @@ accusation  
 scenery (2)
 steady (2)
 steadily 
-merchandise
 vaccine
 vaccinate 
 moth (2)
@@ -522,7 +504,6 @@ prodigy
 painkiller
 martyr
 deprivation 
-deprive
 divorce
 emit
 applause
@@ -532,7 +513,6 @@ zeal
 bribery 
 nod (v,n) 
 sarcasm 
-incarnate
 extinction
 binary
 alley
@@ -593,7 +573,6 @@ prolific
 legerdemain
 hypermnesia
 colossal 
-kinsmen
 pilgrimage (v,n)
 threefold
 narrate (v,n)
@@ -653,7 +632,7 @@ cinnamon
 aloud
 sane (2)
 gradual
-Aquarius
+
 decay
 axis
 squeaky-clean
@@ -667,7 +646,6 @@ district (2)
 chrysalis
 concerning
 life
-maternity
 numb (2)
 mud
 dormitory
@@ -685,7 +663,6 @@ applicable
 yard (3)
 bloodlust
 petrify (2)
-ovary
 orphan
 replicate (2)
 abroad
@@ -723,8 +700,6 @@ amputate
 incidental (2)
 transmute (2)
 orifice
-heresy (4)
-heretic (2)
 devoid
 frankness
 momentarily
@@ -744,17 +719,14 @@ yahoo
 bumpkin
 hayseed
 dividend
-brook
 wreckage
 bat
 heap
 proponent
 pedestrian
 expedition
-carnage
 deduction (2)
 zenith
-omnipotence
 resemble
 necessitate
 nourishment
@@ -773,7 +745,6 @@ papacy
 marionette
 foreplay
 solace
-debtor
 obnoxious
 notary
 larceny
@@ -803,7 +774,7 @@ intensify
 bankrupt (2)
 landlord
 fabricate (2)
-hoe
+
 runway
 chilly (2)
 sceptre
@@ -829,7 +800,6 @@ inclined
 implore
 infant (2)
 friction (2)
-omnivorous (2)
 fashion
 proficiency
 cumulative
@@ -900,7 +870,6 @@ apparent (3)
 contempt (3)
 urge (3)
 easy-going (2)
-acute (3)
 lorry 
 moody (2)
 inherent
@@ -909,7 +878,6 @@ indigenous (2)
 sentimental (2)
 jurisdiction (2)
 crude (4)
-trivia 
 excess (2)
 ladder (2)
 collar (2)
@@ -928,8 +896,6 @@ regulate (2)
 managerial
 precede
 yield (4)
-fraternity (2) 
-fraternal (2)
 regulation (3)
 initiative (na)
 address (nv)
@@ -941,8 +907,6 @@ multitude (2)
 apostle
 paramount
 edifice (2)
-sacrilege
-sacrilegious 
 intellectual
 phoney
 inspire (3)
@@ -987,7 +951,6 @@ blessedness
 concern (2v)
 meddlesome 
 scarce
-animosity
 chickpea
 pervert (vn)
 citizen (3)
@@ -998,8 +961,7 @@ kindle (3)
 credential (2)
 turnkey (3)
 muse (2v) (2n)
-vital
-onerous
+
 arcane
 underlie (2)
 nascent
@@ -1011,7 +973,6 @@ fever (2)
 obtuse (3)
 enclave
 exclave
-maternal (3)
 stimulant (2)
 hearsay
 guesswork
@@ -1089,7 +1050,6 @@ hound (n2v)
 conventional (2)
 sustenance (2)
 chastity
-repent
 distinct (2)
 manufacture (2)
 gig
@@ -1121,7 +1081,6 @@ dearth
 dialect
 nebulous
 contemptible
-discord (4)
 smother (5)
 batch (2)
 presume (2)
@@ -1201,7 +1160,6 @@ felon
 punctual
 immemorial
 pretentious
-fraternize 
 sapling
 savant
 learned (3)
@@ -1221,7 +1179,6 @@ saline
 stroll
 aerial
 dissect  (3)
-acumen
 segue
 corroborate
 irrevocable
@@ -1267,3 +1224,89 @@ gum
 syllable
 blight
 shady
+trial (2)
+greet (4)
+grin (2)
+flavour (2)
+civic
+condense (3)
+agonize (2)
+warrant
+frantic (2)
+tackle (2)
+defile (2)
+yawn (2)
+saga (2)
+hustle (3)
+impediment (2)
+outrage (2)
+outrageous(2)
+livid
+freshman
+cereal (3)
+dale
+Madonna
+malaria
+freedom
+
+department store
+retail store
+heavenly body
+venereal disease
+white supremacy
+self-possession
+the Axis
+rigor mortis
+
+New Year's Eve
+Tropic of Cancer
+Tropic of Capricorn
+spy glass
+insane asylum
+homing pigeon
+celestial body
+cub reporter
+
+tow truck
+cigarette butt
+economy of scale
+dung beetle
+commuter town
+nursery school
+nursery rhyme
+common people
+twig broom
+lawn mower
+self-interest
+postage stamp
+throw rug
+wedding night
+proper noun
+legislative body
+railroad track
+national election
+municipal election
+prime number
+memory allocation
+memory deallocation
+thankless wretch
+work permit
+bowel movement (2)
+figure of merit
+corporal punishment
+capital punishment
+carbon footprint
+man of letters
+loan shark
+hard cash
+flea-market
+hump day
+maiden voyage
+
+labor-intensive
+self-evident
+high-pitched
+far-reaching
+self-sacrificing
+per capita
+per annum
