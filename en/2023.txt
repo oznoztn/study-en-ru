@@ -21,7 +21,7 @@ picket
 venue
 idolater
 smokescreen
-shortchange
+short-change
 jettison
 wager (vn)
 expropriation
@@ -160,7 +160,7 @@ whelp (vn)
 chimera (3)
 hearken
 clique
-continual
+continual (2)
 confidant
 titular
 flay (2)

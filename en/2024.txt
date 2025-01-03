@@ -195,7 +195,7 @@ upend (2)
 entertain (5)
 stylize
 allay (2)
-salient (2)
+salient (3)
 salience
 countenance (2)
 deft
@@ -609,3 +609,149 @@ deglove
 grumpy
 hay
 hayfield
+wetback
+stowaway
+homeward
+jaded
+crone
+ordnance
+catwalk
+fountainhead
+megalith
+captor
+perp
+perpetrator
+breadwinner
+raisin
+rattle (2)
+import (2)
+warhead
+mugger
+impedance
+thorax 
+munition
+telltale (na)
+maven
+reconciliation (2)
+abscond
+embankment
+prognosticator
+callous (2)
+flair
+plumage
+arraign (2)
+sooth
+snooze
+ruckus
+despoil
+actuary
+profanity
+connoisseur
+prenup
+prenuptial
+vixen (2)
+gear
+oink (vn)
+parley
+armistice
+debilitating
+shortcoming
+taboo
+blare
+pacemaker
+brigand
+entitled
+situationship
+catfish
+tempest
+gimmick
+anew
+purge
+domicile
+condiment
+mum
+debit (2)
+propeller
+fin
+profligacy (3)
+glen
+basin
+gale (2)
+insidious
+bole
+clothesline
+progeny
+scythe (vn)
+sybarite
+johnson
+pariah
+lofty (3)
+foreman (2)
+pulley
+thoroughgoing (2)
+utensil (2)
+beaut
+immoderate
+felicity
+foreboding
+plasticity
+trolley
+homunculus
+bicker (2)
+orbiter
+flatulence
+opaque (2)
+skimp
+contrived
+unbecoming (2)
+juxtaposition
+tangent (2)
+animism
+misdemeanor
+expunge (2)
+premises
+extravagance (3)
+interminable
+exasperation
+logbook
+chickenshit
+trailblazer
+lagoon
+gambit (2)
+collected
+hogwash
+hooking
+mope (2)
+bub
+dolor
+doleful (2)
+dolorous
+scrap (2)
+scrape (2)
+samaritan
+chancer
+forlorn (3)
+opportunist 
+acclaim (vn)
+incestuous (2)
+anyhoo
+crapshoot (2)
+craps
+anyhow
+curmudgeonly
+scalper
+saunter
+bylaw
+blasphemy
+purgatory
+guardrail
+colorant
+unsub
+pathetic fallacy
+war hawk
+justice of the peace
+vox populi
+pyrrhic victory 
+den of iniquity
+mortal sin
+venial sin
