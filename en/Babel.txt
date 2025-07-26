@@ -7,16 +7,7 @@ epithet
 hecatomb (2)
 schnook (2)
 contemporaneous
-reify
-hive (2)
-blubber
-incubator
 bequeath
-wince (2)
-confidential (3)
-contiguous (2)
-taut (2)
-scandalous (2)
 grueling
 headway (2)
 incidentally (2)
@@ -24,7 +15,6 @@ spar (2)
 rite (3)
 gaunt
 prescribe (3)
-ergo
 privation (3)
 desperado
 acuity
@@ -44,16 +34,13 @@ cringe (2)
 familiar (2)
 fay
 faun
-tawdry
 spruce (2)
 cur (2)
 teller (2)
 portly
 fiesta (2)
 shed
-deject
 divulge
-populace (2)
 wonk (2)
 argot
 putrefaction (2)
@@ -69,7 +56,6 @@ trunk (3)
 shuttle (2)
 stem (2)
 itinerary
-getaway
 loam
 machination
 statutory (2)
@@ -102,29 +88,17 @@ bane
 hegemony (2)
 hindrance
 pick-up (3)
-ruminate
-gibber
-felicitous (2)
-paladin (2)
-shipshape
-netherworld
 astound
 disconsolate  (2)
 heir (2)
 burdensome
-betroth
-concubine
-bravo
-inure
-scheme (4)
+felicitous (2)
 perpetrate (2)
-pry (2)
 gangly
 ardent (3)
 vacant (3)
-apartheid (2)
-businesslike (2)
-kindergarten
+pry (2)
+scheme (4)
 comity (2)
 rigid (3)
 angst
@@ -153,18 +127,8 @@ sparse
 wont
 domestic (4)
 craven (2)
-belabor (2)
 acquisition (3)
 coercion
-decorum
-scrutinize
-rectify
-clandestine (2)
-covert
-undercover
-manure (2)
-albeit
-hick
 deplore
 fluctuate
 starlet (2)
@@ -206,7 +170,6 @@ indolent
 byword (2)
 crevasse
 brainwave (2)
-brazier
 sanguinary (3)
 ascertain
 nuisance
@@ -251,14 +214,11 @@ protégé
 annals
 coerce (2)
 badger (2v)(n)
-outsider (3)
-annul
 marquee (2n) (a)
 merrymaking
 inquisition 
 effigy (2)
 depravity (2)
-abide (3)
 agitator
 persist (2)
 paraphrase
@@ -273,7 +233,6 @@ sordid (3)
 brawl (2)
 distaste
 breadth (2)
-dutiful
 wrangle
 spew (2)
 saturate (3)
@@ -285,7 +244,6 @@ compound (3)
 pacify (2)
 strenuous (2)
 precept
-blackball (2)
 annex (2)
 lax (3)
 laxity
@@ -310,8 +268,6 @@ shriek
 maladjusted
 stain (vn) (2)
 consolidate (3)
-well-off
-awe
 perturb
 mortify
 artful
@@ -409,17 +365,12 @@ mayhem (2)
 headstrong
 philosophize (2)
 assortment (2)
-bozo (2)
-spleen (3)
 cagey (2)
 diurnal (3)
-lifelike
-retailer
 plebeian (3)
 glob (2)
 clod (2)
 grove
-puberty
 boon
 voluble
 sedition
@@ -429,15 +380,12 @@ manifold
 ebullient
 Ishmael (2)
 forebear
-environs
 stuffy (3)
-fishmonger
 kindling (2)
 disperse (3)
 abrupt (3)
 baffle (3)
 cumbersome (2)
-jalopy
 retract (3)
 vest (2)
 blithe (2)
@@ -514,7 +462,6 @@ nurture (3)
 adolescence (3)
 disconcerting
 resplendent
-bulk
 remonstrate
 temperamental (4)
 peruse (2)
@@ -546,7 +493,6 @@ willy-nilly (2)
 strong-minded
 well-situated (3)
 fraught (2)
-bloodcurdling
 terror (4)
 invariably
 nymph (3)
@@ -570,10 +516,6 @@ presently (2)
 appreciably
 bootstrap
 enunciate (2)
-cache (vn)
-draft (2)
-trying
-cognoscente
 merger
 barter (vn)
 obstinate (2)
@@ -630,7 +572,6 @@ substitute (nav)
 combust (4)
 ordain (2)
 ignominy (2)
-underhanded
 cognition (2)
 reversal (4)
 tax-deferred
@@ -654,10 +595,6 @@ dean (3)
 turnabout
 wreak (2)
 sententious
-evaluate (2)
-vulture (2)
-exclusively
-extrapolate
 ignoramus
 rambunctious
 quibble (2)
@@ -667,9 +604,7 @@ toll (3)
 solicit (2)
 gung-ho
 calamitous
-alabastar
 trustee (2)
-proactive
 brisk (2)
 steep (2) (v)
 steep (3) (a)
@@ -710,7 +645,6 @@ sojourn
 nunnery
 convent
 worthwhile
-felicity (2)
 preclude (2)
 compulsion (2)
 superimpose (2)
@@ -719,7 +653,6 @@ accretion (2)
 tax (2)
 parable (2)
 plaintive
-subset (2)
 spur (n) (2v)
 rendition (2)
 doodad
@@ -741,7 +674,7 @@ splendor
 quill (3)
 antagonist
 unfilial
-bugle
+
 extern 
 cascade (4)
 scullery
@@ -759,13 +692,8 @@ hock
 falchion
 homonym (2)
 edgy
-plagiarism (2)
-saber
-oculus (3)
-grapevine
 leviathan (3)
-exegesis
-eschatology
+oculus (3)
 leaven (3)
 vestigial (2)
 bigwig
@@ -775,9 +703,7 @@ privy
 preoccupy
 preoccupation
 engross (2)
-abortive
 jollity
-acidosis
 pansy (2)
 unsought
 subversion (2)
@@ -808,7 +734,6 @@ biomass (2)
 permafrost
 predation (2)
 zygote
-restitution (3)
 revenant (2)
 audit (2)
 stolid
@@ -819,7 +744,6 @@ capacious
 analogous (2)
 reprehensible
 benevolent (2)
-paucity
 brewery
 autocrat (2)
 bicameral
@@ -828,7 +752,6 @@ medium
 distraught (2)
 prosaic (2)
 amalgamate (2)
-abase
 effrontery
 grandiose (2)
 affable
@@ -917,15 +840,10 @@ cossack
 automaton (2)
 tithe
 attest
-dent (2)
-ford (vn)
 swine (2)
 sprinkle
 peachy (2)
 pedestal (2)
-sidekick
-sweatshop
-cobbler (3)
 yesteryear (2)
 urn (2)
 crucifixion (2)
@@ -955,14 +873,12 @@ payee
 diva (3)
 riffraff
 platoon (2)
-styx
 slacker (3)
 footman (2)
 niche (3)
 hearse
 crooner
 rapine
-Mammon (2)
 taupe
 curator
 tentative (2)
@@ -977,7 +893,6 @@ escrow
 externality (2)
 hermetic (4)
 hoax
-inalienable
 peasant (3)
 commute (3)
 mortar (4)
@@ -992,26 +907,20 @@ tearjerker
 spectacle (2)
 spectacles (2)
 bunk (nav)
-vehement (2)
 dour (2)
-toddler
-ebony
 contraption
 tan (nv)
 plank (2)
 bounce (nv)
 tinker (2vn)
 gauze (2)
-plagiarist
 phylactery
 screening (2)
-earshot
 resort (3)
 invoice
 gizmo (2)
 insurgent
 nimbus (2)
-hospice (2)
 maypole
 pier (3)
 brine (v3n)
@@ -1059,12 +968,6 @@ touchstone (2)
 susceptible (3)
 buffet (vn)
 marshal (2)
-contingency
-granular
-metadata
-dash
-brag
-penalize (2)
 tapestry (2)
 hipster
 book (3)
@@ -1117,7 +1020,6 @@ quidnunc
 busybody
 epilogue
 epilog
-tiptoe
 saucer
 innards (2)
 ethos
@@ -1140,8 +1042,6 @@ quip
 offhand (a) (ad)
 interim (na)
 debutante
-quixotic
-hotshot
 catalyst (2)
 downturn
 precipitate (v) (a)
@@ -1157,10 +1057,8 @@ distend
 disrepute
 impinge (3)
 foul (5)
-behemoth (2)
-goliath (2)
-olfactory
-olfaction
+dash
+sedimentary
 hag (2)
 partway
 operand
@@ -1168,8 +1066,6 @@ duress
 encompass (2)
 cockmanship
 burrow
-ill-defined
-avian
 footprint (4)
 nonstart (2)
 lambaste
@@ -1178,8 +1074,6 @@ knockoff (2)
 wunderkind (2)
 thunderclap (2)
 rumble (4)
-doctor (3)
-longevity (3)
 unilateral
 pylon (5)
 quadrant (3)
@@ -1193,32 +1087,23 @@ dissertation
 behest
 infamy (2)
 dangle (2)
-wacko
-stonewall
+stern (3)
 delinquent
-condescension
-receptacle
 intersperse (2)
 exogenous
 imponderable (na)
 indecipherable (2)
 tally (3)
-congested (3)
 caulk
-vie
 hallmark (3)
 pedigree
 backdrop (2)
-genealogy (3)
 lea
 booty (3x2)
-hobo (2)
-stern (3)
-supranational
+congested (3)
+genealogy (3)
 daft
 stupendous
-backlog
-clear-cut (3)
 goad  (2v) (2n)
 loiter (2)
 confer (2) 
@@ -1259,7 +1144,7 @@ feeble (4)
 ensemble
 fellowship (3)
 airhead
-lovelorn
+
 smirk
 kink
 delinquency (3)
@@ -1269,18 +1154,18 @@ concord (2)
 troop (v 2n)
 nightcap
 passé (2)
-quagmire (2)
-unwarranted
+
+
 imposing
 redeeming
-mawkish
+
 trundle
 driftwood
 brig
 confine (3)
 grudge
 perdition
-oblation
+
 predate
 formulaic (2)
 ablation (2)
@@ -1294,10 +1179,10 @@ inculcate (2)
 abridge (2)
 stilted
 resuscitation (2)
-legislature
-dawg (2)
+
+
 honky
-exalted
+
 yonder (a, ad)
 presage (vn)
 consignment (2)
@@ -1308,7 +1193,7 @@ lair (2)
 spectral (2)
 litigate
 ply (4)
-smallpox
+
 liturgy
 liturgical
 invalid (n)
@@ -1328,7 +1213,6 @@ sublime
 wreck (4)
 prescription (4)
 schooling (2)
-quaint (2)
 interject (2)
 plowland (2)
 heredity (2)
@@ -1369,34 +1253,24 @@ oblique
 centenarian
 crackers
 mongrel (3) (na)
-hoofbeat
-societal
 unconcern (2)
 demise (2n)
 skulduggery
-pomegranate
-totter
 roil (3)
 sediment (2)
 furtive
 appellation (2)
 inundate (2)
 sumptuous
-wingman (2)
 venereal
 farce (2)
 concierge (2)
 shears (2)
 continuum
 splice (3v n)
-snap
 snapshot (3)
 sanitize (2)
-facet (2)
-entourage
 moocher
-inordinate
-rover (2)
 moonscape
 pothole (2)
 spurious (2)
@@ -1432,13 +1306,11 @@ klutz (2)
 canon (4)
 canonical
 banquet
-dignitary
 evangelist (3)
 accrue (2)
 exhilarate (2)
 bedding
 prostration (3)
-lowball
 boondoggle (2)
 demerit
 jumpy
@@ -1457,7 +1329,6 @@ succumb (2)
 henceforth 
 pique (n) (2v)
 prowess (2)  
-tenement (2)
 gab
 council
 consort
@@ -1470,29 +1341,21 @@ fuse
 stifle
 slug (2)
 discriminating
-hyphen
 convalescence (2)
 curio
-debilitate
-blight
-rinse
-topple
-quirk
-weald
-woodland
-troubleshoot
-scram
-galore
-lobby (2)
 prissy (2)
 enthuse (2)
 tonic (2)
 invidious (2)
 invidia
-payload (3)
-elect (3)
+topple
+quirk
+weald
+troubleshoot
+scram
+galore
+lobby (2)
 virile (3)
-lawsuit
 fumble (2)
 insulate (2)
 pad (2)
@@ -1503,7 +1366,6 @@ slash (2)
 self-contained
 overhaul (2)
 slow-witted
-bleat
 egg
 malinger
 offload (3)
@@ -1526,10 +1388,8 @@ frown
 misconstrue
 outlet (3)
 chaste
-voucher
 emblazon (2)
 blowhard
-synapse
 finicky (2)
 ageism
 sheer (2)
@@ -1550,7 +1410,6 @@ sleeve (2)
 pedestal
 legalese
 landed (2)
-gentry (3)
 gentile (2)
 deportment
 soldier (2)
@@ -1580,12 +1439,7 @@ formalize (2)
 retrofit
 outfit (2)
 hoss
-tweeker
-gak
-crib
-pooch
 crumble
-plaster
 pushpin
 tweak (2)
 shanghai
@@ -1608,7 +1462,6 @@ staple
 interpolation
 nook (2)
 outbuilding (2)
-queasy
 runny
 torpedo (2)
 icky (2)
@@ -1660,11 +1513,6 @@ apparatus (2)
 immodest (2)
 interpose (2)
 histrionic (2)
-bigot
-unrepentant
-seizure (3)
-allege (2)
-amplify (3)
 amplitude (4)
 prostrate (2v2n)
 astute
@@ -1675,7 +1523,6 @@ approximate (2)
 groan (v,n)
 swelter (vn)
 presumably
-conduct (4)
 sanctity (2)
 impromptu
 perpetuate (2)
@@ -1702,7 +1549,6 @@ mellow
 aghast 
 wretch (2)
 pup
-poop
 glimpse
 unnerve (2)
 amend (4)
@@ -1730,25 +1576,17 @@ ministration (2)
 brigade (2)
 wheedle (2)
 sloppy (3)
-verisimilitude
-prattle
 dispense
 ratify
 tenure
 boast (2) (vn)
 bulwark (2)
-readily (2)
 wondrous
-verily
 mobster
 hoodlum
 thug
 recondite (3)
 exhort
-radish
-turnip
-travesty
-malady (2)
 flax (2)
 loom (2)
 observe (5)
@@ -1828,7 +1666,6 @@ workhouse (2)
 connive (2)
 husbandman
 fallacious (2)
-vie
 extirpate (3)
 judicious
 gilding (2)
@@ -1837,7 +1674,6 @@ hovel
 pretense US - pretence UK
 pelt
 peltry
-brandy
 ale (2)
 malt (2)
 progenitor (2)
@@ -1862,7 +1698,6 @@ unexceptionable
 liberality (2)
 seigniorage
 projector
-replenish
 ream (2)
 propriety (2) - proprieties
 acceptor (3)
@@ -1888,7 +1723,6 @@ bondman
 overtrade (2)
 magazine (5)
 excise (2n v)
-mortmain
 shift (2)
 honor (6)
 assize
@@ -1904,8 +1738,6 @@ declension (2)
 fishery (4)
 necessarily (3)
 disgorge (2)
-means (3)
-pretend (4)
 scruple
 pension
 overgrow
@@ -1916,6 +1748,7 @@ Pillars of Hercules
 Strait of Gibraltar
 East Indies
 West Indies
+X
 jester
 welsh (2)
 cutthroat (2)
@@ -2052,7 +1885,6 @@ contrive (2)
 distress (4)
 destitute (2)
 bearing
-readliy (2)
 puffery
 rubber band
 grub (2)
@@ -2065,7 +1897,6 @@ gleefully
 excursion
 monograph
 scramble (2v)
-leery
 quay
 stiff
 unwitting (2)
@@ -2127,8 +1958,6 @@ squirrel away
 lay off
 escapade
 smack (2v) (2n)
-vie
-fad
 gimp
 expedite
 congregation (2)
@@ -2244,9 +2073,6 @@ brokerage house
 depreciation rate
 trust fund
 redemption value
-par value
-tax bracket
-saving deposit
 time deposit
 severance package
 a fit of nerves
@@ -2320,5 +2146,6 @@ fall guy (2)
 out of nowhere
 in retrospect 
 fifth column
-cannon fodder
-alma mater
+snap
+due diligence
+vehement (2)
