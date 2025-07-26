@@ -122,7 +122,7 @@ puke
 bedouin
 victor
 vertex
-apex
+apex (2)
 odour
 triage (2)
 diminutive (na)
@@ -173,7 +173,6 @@ juiceless (2)
 midst
 meathead (2)
 spoilsport
-sunny
 hook
 deli
 camion
@@ -362,7 +361,6 @@ accentuate
 actualize
 triad
 eyesore
-sound
 charlatan
 adroit
 ogle
@@ -480,7 +478,6 @@ paralegal
 lye
 leverage (2)
 equidistant
-equipoise
 temperament
 clergy
 elegy
@@ -511,7 +508,6 @@ addendum
 copious
 euphemism
 adolescent
-respiration
 fine
 hardship
 contradict
@@ -551,7 +547,6 @@ contort
 wage
 cuisine
 incinerate
-unprecedented
 disembark
 infatuation
 transitory
@@ -597,7 +592,6 @@ infuriate
 abomination
 racket
 veil (va)
-eerie
 providing
 teardown (2)
 parlance
@@ -889,18 +883,15 @@ meltdown (3)
 obscene (4)
 slippery (3)
 proportional
-protracted
 impeccable
 resolute 
 dysfunctional
 crux (2)
 exacerbate
 insipid (2)
-picturesque
+
 uninspiring
 conscription
-yolk
-albumen (2)
 lucrative
 lovability
 recycle
@@ -1064,7 +1055,6 @@ amass (2)
 conundrum (2)
 scholarship (2)
 minute (2)
-downplay
 edible
 inedible
 secrete (2)
@@ -1130,7 +1120,6 @@ mat (3)
 outcast
 seam
 flamboyant (2)
-upswing (2)
 prose
 incompetent
 aplomb 
@@ -1219,3 +1208,87 @@ prodigality (2)
 meek
 hirsute
 vermillion
+means (3)
+pretend (4)
+contingency
+granular
+plagiarist
+doctor (3)
+longevity (3)
+ill-defined
+avian
+behemoth (2)
+goliath (2)
+backlog
+clear-cut (2)
+seizure (3)
+allege (2)
+amplify (3)
+metadata
+penalize (2)
+outsider (3)
+annul
+albeit
+clandestine (2)
+covert
+undercover
+manure (2)
+scrutinize
+rectify
+apartheid (2)
+businesslike (2)
+kindergarten
+handcuffs
+pomegranate
+hoofbeat
+societal
+spleen (3)
+retailer
+lifelike
+bozo (2)
+bulk
+hive (2)
+incubator
+confidential (3)
+wince (2)
+scandalous (2)
+styx
+Mammon (2)
+toddler
+ebony
+informant
+sweatshop
+maiming
+rinse
+hyphen
+woodland
+payload (3)
+elect (3)
+lawsuit
+dutiful
+well-off
+awe
+poop
+extrapolate
+exclusively
+evaluate (2)
+vulture (2)
+cognoscente
+bloodcurdling
+cache (vn)
+draft (2)
+trying
+
+proactive
+subset (2)
+saber
+bugle
+plagiarism (2)
+acidosis
+laundry
+stroll
+markedly
+legislature
+dawg (2)
+smallpox
+unwarranted
