@@ -44,9 +44,9 @@ bonkers
 brand
 blister
 rap
-inimical 
-officiate
-umpire
+inimical (2)
+officiate (v)
+umpire (n)
 layabout
 rover (2)
 quaint (2)
@@ -161,7 +161,7 @@ dignitary
 broach
 tiptoe (2)
 lowball
-boondoggle (vn)
+boondoggle (v2n)
 alabastar
 underhanded
 underarm
@@ -198,7 +198,7 @@ oblation
 exalted (2)
 drool (vn)
 patio
-squemish
+squeamish
 ornery
 valedictorian
 salutatorian
@@ -222,7 +222,7 @@ bothersome
 crowdsource
 trendjacking
 splurge
-knockoff
+knockoff (2)
 crackhead
 nifty
 defenestrate (2)
@@ -231,12 +231,330 @@ cull (2)
 grapevine (2)
 footwork (2)
 lovelorn
-gooner
-taunt (vn)
-truant
+gooner (2)
 frenemy
+truant
 sardine
-piggyback
 crotch
-bail
 wiener (3)
+piggyback (na3v)
+peg (n3v)
+rowdy
+bail
+rathole (v2n)
+visor (5)
+snap
+epithet
+hamper
+cob
+monastic (2)
+protean (2)
+draconian
+shiftless
+editorial
+trapdoor (2)
+chugger
+engross (2)
+purveyor (2)
+latrine
+ginger
+cogent
+discursive (2)
+capacious
+creamery (2)
+flake (3)
+transfiguration
+fowler
+frankfurter
+circadian
+exuberance
+ebullience
+luxuriance
+squalid
+cramped (2)
+gurney
+clincher
+truculent
+stand-offish
+prig (a)
+Texan (na)
+fleece (3n2v)
+junket
+coldcock
+unfurl
+doofus
+dote
+dean (3)
+ventilator (2)
+virginal (2)
+ho-bag (2)
+love-struck
+clench (2)
+staunch (2)
+loophole
+bootleg (nva)
+column
+minatory
+valued
+lowly
+elation
+rambunctious
+boisterous
+implemental
+drizzle (2v2n)
+dulcet (2)
+besotted
+bruiser (2)
+bore (2n2v)
+convulsion (3)
+paroxysm (3)
+understudy (2)
+platformer
+recontextualize
+honeypot (3)
+earthenware
+bewitch (2)
+binge
+lime
+finagle
+lam (2)
+upstanding (4)
+holier-than-thou
+stifling (2)
+venereal (4)
+wayfarer
+appliance
+proselytizer
+epigone
+spunk (3)
+lodging
+oust
+disarming
+molt
+discomfit (2)
+denture
+kinky (3)
+offbeat (2)
+choppy (2)
+shabby (3)
+perfidious
+approbation (2)
+self-absorbed
+marquee (2n) (a)
+deduplicate
+deduped
+escapade
+gimp (3)
+decadence
+decadent
+sleazy (2)
+congregation (2)
+yew (2)
+parson
+sprinkle (2v2n)
+poacher
+aperture (2)
+yore
+yesteryear (2)
+wiseacre
+turnabout
+creak
+leash (2)
+tattle (3)
+interim (na)
+debutante
+apotheosis (2)
+hysteria
+itemize (2)
+stan (vn)
+schism
+flak (2n)
+unearth (2)
+spirited (2)
+spirit (2v)
+upbeat (2a)
+stifle (2)
+e-tailer
+scion
+delinquent
+daft
+cockmanship
+mainstay
+hag (2)
+guile
+unilateral
+stampede (2)
+lambaste
+carpool
+shrimp (2)
+nightcrawler
+mollusk
+crustacean
+offish
+drama-queen
+headwind
+mitten
+downturn
+rehearse (2)
+rehearsal (2)
+parable (2)
+perpendicular
+orthogonal (3)
+ham-fisted
+ham-handed
+hamstring (2)
+bollocks (ne)
+necktie
+miller
+wanderlust
+quits
+deadpan (ad) (a)
+kowtow  (2)
+inimitable
+inebriated
+stockade (3)
+surreptitious (2)
+bib
+replete
+banquet
+klutz (2)
+hazy (2)
+demerit (2)
+jumpy
+skid (2)
+upscale (a) (ad) (2v)
+downtrodden
+detail (2)
+foray (2)
+precarious (2)
+stiletto
+Charlie
+pillowcase
+buster (2)
+permeable
+bastion (2)
+ethos
+sordid (3)
+sprinkler
+flowerbed
+moonlight
+ditto (2)
+ninny
+nitwit
+wino
+janky
+weatherman
+offset (v)
+concomitant (na)
+quell (2)
+demure (2)
+strand (2)
+scurry (v2n)
+swath (4)
+sit-down (4)
+befuddle (2)
+etch
+stoke (2)
+blurb
+stolid
+phlegmatic
+unswayed
+goner
+vehement (2)
+molasses (2)
+scabies
+sloppy (3)
+morbid
+grandstand
+disentangle (2)
+resuscitate (2)
+reprieve (2)
+upbraid
+spiel
+bulwark (2)
+hallmark (3)
+driftwood
+Jordan
+Algeria
+adjunct
+presently (2)
+roach (2)
+desensitize (3)
+joint (4) (na)
+melodramatic (2)
+blasted (3)
+hunk (2)
+sartorial
+indomitable
+tote (vn)
+pontificate (n2v)
+espouse (2)
+pontiff (2)
+blockbuster
+maypole
+foyer
+watchdog (2)
+entrench
+interloper (2)
+peremptory (2)
+landlocked (2)
+stow
+nightcap (2)
+moocher
+mooch
+cadge
+perdition
+flabbergast
+duopoly
+boonies
+suntan
+nubile (2)
+golem (2)
+peachy (2)
+stupendous
+brass (3)
+ebullient
+kink
+epilogue (3)
+prologue (3)
+strike (3)
+pelt
+brawl (2)
+commutative 
+startling
+dissuade
+phantasm
+portly
+malaise
+woe (2)
+bane
+whiplash (3)
+wellhead (3)
+valiant
+dubious (3)
+trundle
+embellish (2)
+ultimatum
+rehearsal dinner 
+desk job
+horse apple
+stun gun
+stage fright
+sewing circle
+fatigue duty
+ditto mark
+provisional government
+street credibility
+chubby chaser
+tax base
+tax break
+powder room (2)
+fifth column
+skid row
+twilight years
+high seas
+in absentia
+freebie
+handout (2)
+handbill
+throwaway (4a 2n)
