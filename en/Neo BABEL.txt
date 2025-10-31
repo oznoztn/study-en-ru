@@ -601,7 +601,7 @@ seamless (2)
 religiously (2)
 heist (vn)
 nonentity (2)
-gauntlet
+gauntlet (3)
 serene (2)
 juggernaut (2)
 reindeer
@@ -775,7 +775,7 @@ ronin
 juggler (2)
 germ (2)
 clemency
-intermission (2)
+intermission (3)
 compassionate
 eloquent
 holocaust (3)
@@ -889,7 +889,6 @@ dysfunctional
 crux (2)
 exacerbate
 insipid (2)
-
 uninspiring
 conscription
 lucrative
@@ -1278,7 +1277,6 @@ bloodcurdling
 cache (vn)
 draft (2)
 trying
-
 proactive
 subset (2)
 saber
@@ -1291,4 +1289,175 @@ markedly
 legislature
 dawg (2)
 smallpox
-unwarranted
+unwarranted (2)
+taunt (vn)
+premature (2)
+competitive (4)
+muffin
+workflow 
+bouncer
+semaphore
+delegate (2)
+tearjerker
+payee
+reversal (4)
+calamitous
+trajectory
+inadvertently
+sentient
+insensitive (2)
+bartender
+proclaim (3)
+proclamation (2)
+barman
+barmaid
+stagecoach
+spouse
+listless (2)
+yoke (4)
+wrong (2)
+hex
+trite
+adolescence (3)
+disconcerting
+embody (3)
+nurture (3)
+reconnaissance
+admonition
+stubborn (2)
+foolhardy
+whirlpool
+outbuilding (2)
+sheepish
+chisel
+mallet
+ageism
+troubleshoot
+insulate (2)
+hectic
+oppress (2)
+stratum (3)
+retort
+rueful
+haughty
+brink (2)
+convulate (va)
+hindrance
+objectionable (2)
+connotation
+doomsday (2)
+allegation
+disgorge (2)
+jester
+clubs
+spade (2)
+hearts
+diamonds
+alibi (2)
+circumference
+liaison (3)
+pickle
+fallout (3)
+reproduce (4)
+urn (2)
+crucifixion (2)
+worthwhile
+meager
+scanty (2)
+pence
+diminish (2)
+stigmatize (2)
+evict
+kleptocracy
+plutocracy (3)
+commonplace (3a 2n)
+abstinence
+ration (vn)
+husbandry (2)
+defer (2)
+anecdote (2)
+concussion (2)
+whim
+eon (3)
+aeon
+saucer
+leitmotif
+ale (2)
+malt (2)
+convulated (2)
+appendix (2)
+surmise
+alternation
+defunct (2)
+invalid (n)
+innards (2)
+wunderkind (2)
+thunderclap (2)
+arc (3)
+cricket (2)
+bummer (!) (n)
+overcome (3)
+sullen (2)
+snitch (2)
+midget
+bloodsucker (2)
+shell (3)
+kernel (4)
+self-contained
+overhaul (2)
+slow-witted
+detrimental
+
+molten (2)
+elicit
+roundabout
+foolish
+invoice
+insurgent
+gizmo (2)
+well-situated (3)
+fraught (2)
+invariably
+hoard (vn)
+pastime
+cane (3)
+ordeal (2)
+terror (4)
+means (4)
+annex (2)
+lax (3)
+laxity
+dreary (2)
+endeavor
+insofar
+foliage
+agitator
+persist (2)
+paraphrase
+ferocious (3)
+shriek
+stain (vn) (2)
+consolidate (3)
+maladjusted
+distaste
+impending
+wondrous
+boast (2) (vn)
+publicist
+dealership (2)
+airborne (2)
+elemental (2)
+allot (2)
+cannabis (2)
+snapshot (3)
+sanitize (2)
+flat
+post-mortem (2)
+sky-high
+predate
+atrophy (2)
+makeshift
+deficit  (3)
+life span
+dead drop
+sob story (2)
