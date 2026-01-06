@@ -448,7 +448,7 @@ offset (v)
 concomitant (na)
 quell (2)
 demure (2)
-strand (2)
+strand (n2v)
 scurry (v2n)
 swath (4)
 sit-down (4)
@@ -480,7 +480,7 @@ adjunct
 presently (2)
 roach (2)
 desensitize (3)
-joint (4) (na)
+joint (5) (na)
 melodramatic (2)
 blasted (3)
 hunk (2)
@@ -497,17 +497,138 @@ watchdog (2)
 entrench
 interloper (2)
 peremptory (2)
-landlocked (2)
-stow
 nightcap (2)
-moocher
-mooch
-cadge
-perdition
-flabbergast
 duopoly
 boonies
-suntan
+suntan (nv)
+landlocked (2)
+novocaine
+procaine
+jailbird
+dreamboat
+hothead
+checkers
+affidavit
+flapjack
+pugilist
+barstool
+fiver (2)
+sate (2)
+citizenry
+hanky
+glib
+preempt (3)
+clanger
+retinue
+shiner (2)
+behoove
+stow
+perdition
+greenmail
+cockamamie
+angler
+burrow
+shellfish
+cockle
+locker
+pout
+gloat
+rehearsal dinner 
+desk job
+horse apple
+stun gun
+stage fright
+sewing circle
+fatigue duty
+ditto mark
+provisional government
+street credibility
+chubby chaser
+tax base
+tax break
+powder room (2)
+peeping Tom
+funeral home
+funeral parlour
+personal effects
+rolling pin
+wiggle room
+fifth column
+skid row
+twilight years
+high seas
+pipe dream
+typewriter
+braggart
+wastrel
+hunker
+putz (2)
+schizo
+smirk
+jabberwocky
+ironmonger
+ironmongery
+caretaker (3)
+penitent
+coon (2)
+cesspit (2)
+thieve
+revenant (2)
+eminent
+garage
+chink
+lest
+pleb
+flabbergast (v)
+plume (v2n)
+cauldron (2)
+emporium
+latch
+deplore
+exhume (2)
+escrow
+bankroll (v2n)
+diametrically
+moviegoer
+zit
+headliner
+macho (na)
+profess (2v)
+eff (vn)
+extemporaneous
+subversive (na)
+bun
+slovenly (2)
+slipshod
+yak (vn)
+cooze (2)
+ordinance
+ragamuffin
+zest (2)
+moocher
+mooch (vn)
+cadge
+desperado
+misgiving
+shed
+divulge
+cur (2)
+engender
+contraption
+latex
+analgesic (na)
+periwinkle
+festivity (2)
+subvert
+wont
+auburn
+sap (vn)
+prowl (2)
+unhinged
+gumption
+glum
+limpet (2)
+barnacle (2)
 nubile (2)
 golem (2)
 peachy (2)
@@ -535,26 +656,13 @@ dubious (3)
 trundle
 embellish (2)
 ultimatum
-rehearsal dinner 
-desk job
-horse apple
-stun gun
-stage fright
-sewing circle
-fatigue duty
-ditto mark
-provisional government
-street credibility
-chubby chaser
-tax base
-tax break
-powder room (2)
-fifth column
-skid row
-twilight years
-high seas
-in absentia
-freebie
-handout (2)
-handbill
-throwaway (4a 2n)
+snowflake (2)
+diversion (3)
+bland (3)
+molest (2)
+teller (2)
+fiesta (2)
+mien
+merrymaking
+saturate (3)
+armament (2)
