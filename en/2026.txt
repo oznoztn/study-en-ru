@@ -1,4 +1,7 @@
 prototype (3n) (v)
+monotony (2)
+monotone (2)
+monotonous (2)
 brawler (2)
 fricking
 obstinate (2)
@@ -59,9 +62,6 @@ bower
 puny
 misconstrue
 upwelling
-monotony (2)
-monotone (2)
-monotonous (2)
 pall-bearer
 Tinseltown
 upkeep (2)
@@ -137,19 +137,212 @@ roofie
 loft
 tase
 reprisal
-face-time
 conception (2)
 klick
 greenhorn
 blankety-blank
 homeopathy
 impassive (2)
-pursuance
 flax (2)
-loom (2v2n)
 plough (v2n)
 ploughman (2)
-harrow (vn)
-setback
+overcast (avn)
 quill (3)
 dissipate (2)
+face-time
+steamroll (2)
+taser (vn)
+furrow (2)
+topple (2)
+hinterland (3)
+blackbirding
+revamp (vn)
+swoosh (vn)
+harrow (vn)
+untoward
+mortify
+surmount (2)
+proliferate
+descry (2)
+inclement
+incontrovertible
+woozy
+corpsman
+twain
+murmur (2)
+reckon (3)
+piker
+cede
+noogie
+denotation
+wanton
+gonzo (3)
+skunk (3)
+skank (2)
+enmesh (2)
+tact
+criterion
+aftermarket
+pyrotechnic (2)
+popsicle
+lolly (2)
+goggle (v2n)
+dredge
+plucky
+chic
+unsullied
+dividends
+lewd
+pier (3)
+weather (2)
+antsy (2)
+mortification (3)
+apologue
+ruse
+protégé
+brandish
+cerebrate
+jawbone
+jawboning
+bloc
+mosey
+discombobulate
+reservist
+hindmost
+nonstart (2)
+offshoot (2)
+hodgepodge
+juvie
+merger
+gamey
+boarding school
+twister
+ravine
+apprise
+experiential
+apply
+relentless (2)
+unfazed
+undaunted
+bimbo
+mutt (2)
+cave (3)
+spillage (2)
+crutch (2)
+enunciate (2)
+dingus (3)
+sesh
+rudderless
+pothead
+recant
+summation (3)
+off-putting
+mongrel
+visceral (2)
+cagey (2)
+diurnal (3)
+retrograde (3)
+hell-bent
+columnist
+goad (2v) (2n)
+doodad
+brassiere
+incensed
+infighting
+dreamcatcher
+retardant
+dolt
+pliers
+jostle (3)
+constatation
+brazier 
+refuse
+moxie
+shoehorn
+venerable (2)
+usher
+foreclosure
+substantive
+astroturfed
+boarder (2)
+spurious (2)
+requiem
+paramour
+impeach (3)
+moonlit
+rebate (vn)
+encroachment (2)
+uncontacted
+grassroots
+hilarity
+merriment
+encroach (2)
+venal (3)
+vestige (2)
+vermin (2)
+virulent (3)
+vaudeville
+veneer (2)
+vouchsafe (3)
+olden
+sideboard
+clock-watcher
+broad
+sit
+ancillary
+cornrow
+monotonic
+liminal
+underprovision
+abrade
+vestigial
+chummy
+lifeline
+cabriolet
+dirge
+vivacity
+succour
+forearm
+harpoon
+appraisal
+retribution (2)
+vortex (2)
+pervasive
+depravity (2)
+dragoman
+freeholder
+contemporaneous
+deadbeat (2)
+compartmentalize
+dissertation
+behest
+fellowship (3)
+airhead
+bridgehead 
+celebrant
+forester (2)
+finger (3)
+roadie
+tootsie (5)
+toots
+fairy (2)
+demeaning
+lineup (3)
+brainy
+dreck (2)
+meshugaas
+crackpot
+expedite
+consumer office
+wickedness
+prospecting
+lice
+louse
+rout (vn)
+fidgety
+safeguard (nv)
+subsidy
+aiguillette
+skulduggery
+homonym (2)
+disown
